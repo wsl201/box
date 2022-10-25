@@ -1,1 +1,1 @@
-https:///raw.iqiq.io/wsl201/box/main/jar/
+https://raw.iqiq.io/wsl201/box/main/jar/
