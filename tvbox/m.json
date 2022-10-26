@@ -46,7 +46,7 @@
             "key" : "drpy_js_乐猪TV[js1]",
             "name" : "乐猪TV[js1][DRPY]",
             "type" : 3,
-            "api" : "https://raw.iqiq.io/wsl201/box/main/js/libs/drpy.ym.js",
+            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
             "ext" : "https://raw.iqiq.io/wsl201/box/main/js/js/乐猪TV.js"
         },
             {
