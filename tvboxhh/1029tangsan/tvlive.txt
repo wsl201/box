@@ -170,6 +170,14 @@ CCTV17,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 文化影视,http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
 都市,http://39.134.32.102:6610/270000001111/1110000324/index.m3u8?IASHttpSessionId=OTT
 公共应急,http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
+
+安徽本地,#genre#
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+安  徽  影  视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
+淮南公共频道,http://stream.0554news.com/hnds2/sd/live.m3u8
+
 移动专区,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
