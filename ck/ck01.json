@@ -5,12 +5,12 @@
             "name": "m接口"
         },
         {
-            "url": "https://raw.iqiq.io/wsl201/box/main/tvboxhh/1029pz/1029pz.json",
-            "name": "1029pz接口"
+            "url": "https://raw.iqiq.io/wsl201/box/main/hh/pz/pz.json",
+            "name": "1103pz接口"
         },
         {
-            "url": "https://raw.iqiq.io/wsl201/box/main/tvboxhh/1029tangsan/1029tangsan.json",
-            "name": "1029唐三接口"
+            "url": "https://raw.iqiq.io/wsl201/box/main/hh/qj/qj.json",
+            "name": "1125巧记接口"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
