@@ -1,7 +1,7 @@
 {
 "spider":"https://raw.iqiq.io/wsl201/box/main/hh/pz/mainjar.jar",
 "wallpaper":"https://壁纸.神器每日推送.tk",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.iqiq.io/wsl201/box/main/hh/pz/live.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby93c2wyMDEvYm94L21haW4vaGgvcHovbGl2ZS50eHQ="]}]}],
 "sites":[
 {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/wsl201/box/main/hh/mm/jar/csp.jar;md5;b965ffdf88f07652189d6416ba83164c"},
 {"key":"Lezhu_spider","name":" 🐖乐猪tv2┃SP","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://raw.iqiq.io/wsl201/box/main/hh/qj/jar/qj.jar;md5;0625422b0f75c1a69705c7d30eded699"},
@@ -10,7 +10,6 @@
 {"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tutu_spider","name":"🐰图图┃SP","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618","jar":"https://raw.iqiq.io/wsl201/box/main/hh/qj/jar/qj.jar;md5;0625422b0f75c1a69705c7d30eded699"},
-
 {"key":"csp_Ysgc","name":"🏭影视工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📺360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
