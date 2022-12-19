@@ -1,0 +1,21 @@
+{
+"storeHouse":
+[
+{"sourceName":"我的仓库，大佬接口","sourceUrl":"https://raw.iqiq.io/wsl201/box/main/ck/ck01.json"},
+{"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"云星②号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/极速仓库.json"},
+{"sourceName":"云星③号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/缓冲仓库.json"},
+{"sourceName":"云星④号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/大佬仓库.json"},
+{"sourceName":"星河1仓","sourceUrl":"https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"},
+{"sourceName":"星河2仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName": "星河3仓","sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName": "星河4仓","sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"},
+{"sourceName": "星河5仓","sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"},
+{"sourceName": "欧歌主仓","sourceUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f365e319-1b15-4229-8d34-50ae05216295/14e7e1f5-763a-4c2a-b991-68ba2f9bc377.jpg"},
+{"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+{"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName": "安卓哥3仓","sourceUrl": "https://raw.fastgit.org/leevi0709/apps/main/3"},
+{"sourceName": "安卓哥JS仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
+{"sourceName": "安卓哥PY仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/py_store"}
+]
+}

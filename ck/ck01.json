@@ -1,37 +1,45 @@
 {
     "urls": [
         {
-            "url": "https://raw.iqiq.io/wsl201/box/main/tvbox/m.json",
-            "name": "m接口"
+            "url": "http://刚刚.live/猫",
+            "name": "刚刚"
         },
         {
-            "url": "https://raw.iqiq.io/wsl201/box/main/hh/pz/pz.json",
-            "name": "1103pz接口"
+            "url": "http://肥猫.love",
+            "name": "肥猫"
         },
         {
-            "url": "https://raw.iqiq.io/wsl201/box/main/hh/qj/qj.json",
-            "name": "1125巧记接口"
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "饭太硬"
         },
         {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "agit.c接口"
+            "url": "https://hutool.ml/tang",
+            "name": "唐三"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "agit.xc接口"
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧记"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊哥"
         },       
         {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "github.m接口"
+            "url": "http://drpy.site/js1",
+            "name": "小雅js"
         },
         {
-            "url": "http://120.53.102.254/tvb/py/",
-            "name": "py接口"
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝"
         },
-                {
-            "url": "https://gitee.com/wangsl201/bo/raw/tb/js/js.json",
-            "name": "js接口"
+                { 
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "神器pz"
+        },
+        },
+                { 
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "星云日记"
         }
     ]
 }
-
