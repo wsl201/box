@@ -2,6 +2,7 @@
 "storeHouse":
 [
 {"sourceName":"大佬接口","sourceUrl":"https://raw.iqiq.io/wsl201/box/main/ck/ck01.json"},
+{"sourceName":"❤️多多精简仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
 {"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/1.txt"},
 {"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/2.txt"},
 {"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/3.txt"},
@@ -25,13 +26,8 @@
 {"sourceName":"🔥影视仓库②","sourceUrl":"https://codeberg.org/g./g/raw/branch/main/b"}, 
 {"sourceName":"🔥影视仓库③","sourceUrl":"https://codeberg.org/g./g/raw/branch/main/c"}, 
 {"sourceName":"🔥影视仓库④","sourceUrl":"https://codeberg.org/g./g/raw/branch/main/d"},
-{"sourceName": "🌹欧歌主仓库🌹", "sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌" },
-{"sourceName": "🌹欧歌备仓库🌹", "sourceUrl": "http://m.nxog.top/nxog/ou.php?url=http://m.nxog.top&b=欧歌" }, 
-//{"sourceName": "🌷欧歌备1仓库🌷", "sourceUrl": "http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=欧歌" }, 
-//{"sourceName": "💐欧歌备2仓库💐", "sourceUrl": "http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=欧歌" } , 
-//{"sourceName": "🌸欧歌备3仓库🌸", "sourceUrl": "http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=欧歌" } , 
-//{"sourceName": "🌼欧歌备4仓库🌼", "sourceUrl": "http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=欧歌" }, 
-//{"sourceName": "🌻欧歌备5仓库🌻", "sourceUrl": "http://5.nxog.top/nxog/ou.php?url=http://5.nxog.top&b=欧歌" },
+{"sourceName": "🌹欧歌仓库🌹", "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌" },
+{"sourceName": "🌹派大星仓库🌹", "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=2&b=派大星" }, 
 {"sourceName":"云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"云星②号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/极速仓库.json"},
 {"sourceName":"云星③号仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/缓冲仓库.json"},
