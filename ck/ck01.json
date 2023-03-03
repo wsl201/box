@@ -17,9 +17,13 @@
             "name": " 🍚饭太硬"
         },
         {
-            "url": "https://drpy.wsl201.repl.co/txt/pycms2.json",
+            "url": "https://raw.iqiq.io/wsl201/box/main/hh/mm/pycms2.json",
             "name": " 🤞我的drpy"
         },
+        //{
+            //"url": "https://drpy.wsl201.repl.co/txt/pycms2.json",
+            //"name": " 🤞我的drpy"
+        //},
         {
             "url": "https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json",
             "name": " 🍯蜂蜜"
