@@ -1,0 +1,11 @@
+{
+  "drives": [
+    {
+      "name": "心随草动",
+      "server": "http://192.168.10.2:5244",
+      "startPage":"/",
+      "showAll":false,
+      "search":true
+    }
+  ]
+}
