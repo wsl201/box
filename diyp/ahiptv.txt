@@ -254,10 +254,11 @@ IPV6安徽地方,#genre#
 安徽公共 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_ggpd/1.m3u8
 安徽国际 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTahgj/index.m3u8
 安徽导视 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/XMTahds/.m3u8
-徽生活高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/GDhuish/index.m3u8
+安徽生活高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/GDhuish/index.m3u8
 安徽经济高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_jjhd/1.m3u8
 安徽影视高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_yshd/1.m3u8
 安徽农科高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_kjhd/1.m3u8
+安徽综艺高清 -IPV6,http://[2409:8087:3000:23:0:3:0:113b]:8114/120000001002/XMTah_zyhd/1.m3u8?FvSeid=69d720218e08403f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=11113478&Fsv_chan_hls_se_idx=37&Fsv_TBt=12201984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&rovider_id=120000001002&content_id=XMTah_zyhd&Fsv_CMSID=120000001002
 安徽综艺高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_zyhd/1.m3u8
 安徽公共高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_gghd/1.m3u8
 海豚影视高清 -IPV6,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtys/index.m3u8
