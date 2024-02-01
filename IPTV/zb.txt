@@ -10,10 +10,10 @@ CCTV12 社会与法-内网,http://192.168.10.1:8205/udp/238.1.78.242:7808
 CCTV13 新闻-内网,http://192.168.10.1:8205/udp/238.1.79.35:4392
 安徽卫视-内网,http://192.168.10.1:8205/udp/238.1.79.27:4328
 安徽卫视-内网,http://192.168.10.1:8205/udp/238.1.78.150:7072
+辽宁卫视-内网,http://192.168.10.1:8205/udp/238.1.78.21:6096
 安徽综艺体育-内网,http://192.168.10.1:8205/udp/238.1.79.41:4440
 安徽综艺体育-内网,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽公共-内网,http://192.168.10.1:8205/udp/238.1.79.43:4456
-辽宁卫视-内网,http://192.168.10.1:8205/udp/238.1.78.21:6096
 
 IPV6收藏,#genre#
 CCTV-3 综艺-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -64,8 +64,9 @@ CCTV-13 新闻-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.
 安徽卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
 辽宁卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv#http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8#http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8#http://mmitv.top/test/ahtv.php?id=17#http://live.cooltv.top/tv/anhui.php?id=ahzyty#http://stream.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.flv
-安 徽 公 共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8#http://live.cooltv.top/tv/anhui.php?id=ahgg#http://mmitv.top/test/ahtv.php?id=16#http://lu1.cc/itv/ahtv/ahtv1.php?id=ahgg
+安徽综艺体育-内网,http://192.168.10.1:8205/udp/238.1.79.41:4440
+安徽公共-内网,http://192.168.10.1:8205/udp/238.1.79.43:4456
+
 
 央视高清,#genre#
 
