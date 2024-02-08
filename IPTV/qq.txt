@@ -265,109 +265,108 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 IPV6央视,#genre#
 
-CCTV-1 综合-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV-1 综合-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV-1 综合-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1 综合-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1 综合-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-2 财经-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV-1 综合-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV-1 综合-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV-2 财经-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1529547736_77479836/ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 CCTV-2 财经-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-2 财经-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-3 综艺-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
+CCTV-2 财经-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3 综艺-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV-3 综艺-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
-CCTV-4 中文国际-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV-3 综艺-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
 CCTV-4 中文国际-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 中文国际-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
 CCTV-4 中文国际-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-5 体育-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV-4 中文国际-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 CCTV-5 体育-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5 体育-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5 体育-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV-5 体育-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-5 体育-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV-5 体育-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV-5+ 体育赛事-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
 CCTV-5+ 体育赛事-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+ 体育赛事-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 CCTV-5+ 体育赛事-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-5+ 体育赛事-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 电影-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
 CCTV-6 电影-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV-6 电影-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6 电影-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6 电影-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
-CCTV-7 国防军事-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV-6 电影-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
 CCTV-7 国防军事-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7 国防军事-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-7 国防军事-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
 CCTV-7 国防军事-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-7 国防军事-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/4/224/3221227690/index.m3u8
-CCTV-8 电视剧-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV-7 国防军事-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 CCTV-8 电视剧-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-8 电视剧-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8 电视剧-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 CCTV-8 电视剧-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-8 电视剧-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
-CCTV-9 纪录-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV-8 电视剧-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
 CCTV-9 纪录-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9 纪录-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9 纪录-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8
 CCTV-9 纪录-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-9 纪录-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
-CCTV-10 科教-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV-9 纪录-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
 CCTV-10 科教-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10 科教-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10 科教-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228286/index.m3u8
 CCTV-10 科教-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-10 科教-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228286/index.m3u8
-CCTV-11 戏曲-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV-10 科教-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
 CCTV-11 戏曲-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-11 戏曲-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
 CCTV-11 戏曲-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
 CCTV-11 戏曲-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-11 戏曲-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
-CCTV-12 社会与法-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV-11 戏曲-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 CCTV-12 社会与法-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-12 社会与法-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 CCTV-12 社会与法-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-12 社会与法-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228401/index.m3u8
-CCTV-13 新闻-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV-12 社会与法-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
 CCTV-13 新闻-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-13 新闻-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-13 新闻-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 CCTV-13 新闻-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
-CCTV-14 少儿-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV-13 新闻-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 CCTV-14 少儿-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-14 少儿-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14 少儿-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228292/index.m3u8
 CCTV-14 少儿-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-14 少儿-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228292/index.m3u8
-CCTV-15 音乐-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV-14 少儿-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV-15 音乐-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-15 音乐-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
 CCTV-15 音乐-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
 CCTV-15 音乐-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-15 音乐-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
-CCTV-16 奥林匹克-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV-15 音乐-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 CCTV-16 奥林匹克-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 CCTV-16 奥林匹克-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16 奥林匹克-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV-16 奥林匹克-IPV6,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 CCTV-16 奥林匹克-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
-CCTV-16 奥林匹克4K-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-CCTV-17 农业农村-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV-16 奥林匹克-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-17 农业农村-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-17 农业农村-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-17 农业农村-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
 CCTV-17 农业农村-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-17 农业农村-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
-CCTV-4K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+CCTV-17 农业农村-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-4K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/2/224/3221228228/index.m3u8
 CCTV-4K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV-4K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV-8K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV-8K 超高清-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
@@ -397,115 +396,134 @@ CCTV-世界地理-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch000000
 
 IPV6地方卫视,#genre#
 
-安徽卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
 安徽卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225925/index.m3u8
 安徽卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-辽宁卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
+安徽卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
 辽宁卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
+辽宁卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
 北京卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
 北京卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
-湖南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
+北京卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
+湖南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
+湖南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 东方卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225942/index.m3u8
 东方卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-四川卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
+东方卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
 四川卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
 四川卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8
-天津卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
+四川卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
 天津卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
 天津卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
+天津卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
 山东卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
 山东卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227517/index.m3u8
-广东卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
+山东卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
+
 广东卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
 广东卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-广西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
+广东卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
+
 广西卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
-江苏卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
+广西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
+
 江苏卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225929/index.m3u8
 江苏卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
+江苏卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
+
 江西卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
 江西卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
-河北卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+江西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
+
 河北卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
 河北卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8
 河北卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
-河南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
-河南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
+河北卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+
 河南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
-浙江卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
+河南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
+河南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+
 浙江卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225959/index.m3u8
 浙江卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-海南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
+浙江卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
+
 海南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
 海南卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
-深圳卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
+海南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
+
 深圳卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 深圳卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8
 深圳卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8
 深圳卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖北卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
+深圳卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
+
 湖北卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 湖北卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226015/index.m3u8
 湖北卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
+湖北卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
+
 山西卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
 山西卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
+山西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
+
 东南卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8
 东南卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
 东南卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228428/index.m3u8
-贵州卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u
+东南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
+
 贵州卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225974/index.m3u8
 贵州卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8
 贵州卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
-重庆卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
+贵州卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
+
 重庆卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
-黑龙江卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
+重庆卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
+
 黑龙江卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江卫视-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8
 黑龙江卫视-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑龙江卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
 内蒙古卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 宁夏卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
 陕西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
-陕西卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
 甘肃卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
-吉林卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
+
 吉林卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
-云南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+吉林卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
+
 云南卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
-三沙卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
+云南卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+
 三沙卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
+三沙卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 青海卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 青海卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
-新疆卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
+
 新疆卫视-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-西藏卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
+新疆卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
+
 西藏卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 兵团卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
-延边卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
+
 延边卫视-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延边卫视-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 厦门卫视-IPV6,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 厦门卫视-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安多卫视-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -524,12 +542,17 @@ IPV6-咪咕-凤凰,#genre#
 
 咪咕综合体育-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 咪咕足球-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-凤凰中文-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+咪咕综合体育-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
+咪咕足球-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+
 凤凰中文-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰中文-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
 凤凰资讯-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-凤凰香港-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰资讯-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
 凤凰香港-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 CHC动作电影-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
