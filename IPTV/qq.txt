@@ -283,9 +283,9 @@ CCTV-3 综艺-IPV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PL
 CCTV-3 综艺-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV-3 综艺-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
 CCTV-3 综艺-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-4 中文国际-IPV6,http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 CCTV-4 中文国际-IPV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 中文国际-IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-4 中文国际-IPV6,http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 CCTV-4 中文国际-IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
 CCTV-4 中文国际-IPV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 CCTV-5 体育-IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
