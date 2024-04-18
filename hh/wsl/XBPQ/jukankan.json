@@ -1,0 +1,10 @@
+{
+                "站名": "剧看看",
+                "主页url": "https://www.jukankan.me",
+                "数组": "class=\"stui-vodlist__box\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "播放数组":"class=\"stui-content__playlist clearfix\"&&</ul>",
+                "线路数组": "[排序:自营云播b>暴风节点>优质节点>非凡节点>量子节点>新浪节点>飞速节点>无尽节点>闪电节点]",
+                "分类url": "https://www.jukankan.me/vodtype/{cateId}-{catePg}.html",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
+            }
