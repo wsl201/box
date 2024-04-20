@@ -1,117 +1,63 @@
 {
     "urls": [
-        {
-            "url": "http://刚刚.live/猫",
-            "name": "  🔩刚刚"
-        },
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": " 🐱肥猫"
-        },
-        {
-            "url": "https://yydsys.top/duo",
-            "name": " 🍀多多"
-        },  
-        {
-            "url": "http://饭太硬.ga/tv",
-            "name": " 🍚饭太硬"
-        },
-        {
-            "url": "https://raw.kgithub.com/wsl201/box/main/hh/Alist/drives/alist.json",
-            "name": " 🤞我的Alist(家用局域网，外网不可用)"
-        },
-        {
-            "url": "https://raw.iqiq.io/wsl201/box/main/hh/mm/pycms2.json",
-            "name": " 🤞我的drpy"
-        },
-        //{
-            //"url": "https://drpy.wsl201.repl.co/txt/pycms2.json",
-            //"name": " 🤞我的drpy"
-        //},
-        {
-            "url": "https://raw.kgithub.com/FongMi/CatVodSpider/main/json/config.json",
-            "name": " 🍯蜂蜜"
-        },
-        {
-            "url": "https://hutool.ml/tang",
-            "name": " 🍭唐三"
-        },     
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🍄俊于"
-        },
-        {
-            "url": "http://drpy.site/js1",
-            "name": "🧢雅仙女js"
-        },        
-        {
-            "url": "https://agit.ai/VivoMax/video/raw/branch/master/js0.json",
-            "name": " 🐾猫爪_道长js"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": " 🎀菜妮丝"
-        },
-        {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": " 🌙霜辉月明py"
-        },
-        {
-            "url": "https://xn--m7r412advb92j21st65a.tk/pz.json",
-            "name": " ⚔神器pz"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": " 🍫巧技"
-        },
-        {
-            "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
-            "name": " 👋潇洒"
-        },
-        {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
-            "name": " 🎁月光宝盒"
-        },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": " 😊Yoursmile7"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "🅱哔哩哔哩"
-        },
-        {
-            "url": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json",
-            "name": " 🍬甜蜜"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": " ☁云星日记"
-        },
-        {
-            "url": "http://miaotvs.cn/osc",
-            "name": " ☀太阳"
-        },
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": " 📝老刘备"
-        },
-        {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": " 🦸‍♀️白嫖"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
-            "name": " 🐯兽爪"
-        },
-        {
-            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/tvbox.json",
-            "name": "🏓张红"
-        },
-        {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": " 😵乱世"
-        }
-
-    ]
-}
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/wsl201/box/main/hh/wsl/wsl.json","name": "⚜️自用线路"},
+{"url": "http://我不是.肥猫.live/接口禁止贩卖","name": "⚜️肥猫线路"},
+//{"url": "http://小白.love","name": "⚜️肥猫备用1线路"},
+//{"url": "http://我不是.肥猫.live/","name": "⚜️肥猫备用2线路"},
+{"url": "http://饭太硬.top/tv","name": "⚜️饭太硬1线路"},
+{"url": "http://fan.xxooo.cf/tv","name": "⚜️饭太硬2线路"},
+{"url": "http://fan.888484.xyz/tv","name": "⚜️饭太硬3线路"},
+{"url": "https://my5353.com/sftxl1","name": "⚜️爽翻天主线路"},
+{"url": "https://my5353.com/sftxl2","name": "⚜️爽翻天备用线路"},
+//{"url": "https://cloud.lxweb.cn/f/LPB2ID/sft%20ts.txt","name": "⚜️爽翻天主线路"},
+//{"url": "https://pan.shangui.cc/f/0kbjIj/sft%20pl.txt","name": "⚜️爽翻天备用线路"},
+{"url": "http://itvbox.cc/云星日记","name": "⚜️云星家庭线路"},
+{"url": "http://xhww.fun:63/小米/DEMO.json","name": "⚜️小米线路"},
+{"url": "http://tvbox.王二小放牛娃.xyz","name": "⚜️放牛线路"},
+{"url": "http://52pan.top:81/api/v3/file/get/174963/%E6%96%B0%E5%90%BE%E7%88%B1%E7%94%B5%E8%A7%86.m3u?sign=YNZLF47Iiy-W2feoThhKUmd4FcuNFHwEaR4JM7YaLf8%3D%3A0","name": "⚜️吾爱线路"},
+//{"url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json","name": "⚜️PG线路"},
+//https://proxy.api.030101.xyz/http://fongmi.eu.org/pg/jms.json
+{"url": "https://pastebin.com/raw/5NHaxyGR","name": "⚜️道长1线路"},
+{"url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json","name": "⚜️道长线2路"},
+{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "⚜️香雅情1线路"}, 
+//{"url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "⚜️香雅情1线路"}, 
+//{"url": "http://vipurl.icu/XYQTVBox/XYQTVBox.json","name": "⚜️香雅晴2线路"},
+//{"url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json","name": "⚜️香雅晴3线路"},
+//https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
+{"url": "https://tv.菜妮丝.top","name": "⚜️菜尼丝线路"},                      
+{"url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "⚜️南风线路"},
+{"url":"http://home.jundie.top:81/top98.json","name":"⚜️俊宇线路"},
+{"url": "https://wds.ecsxs.com/231726.css","name": "⚜️春盈线路"},
+{"url": "https://100km.top/0","name": "⚜️零线路线路"},
+{"url": "https://raw.liucn.cc/box/m.json","name": "⚜️老刘备线路"},
+{"url": "https://s2.pub/cally","name": "⚜️cally线路"},
+{"url": "http://rihou.cc:88/荷城茶秀","name": "⚜️荷城茶秀线路"},
+{"url": "http://rihou.vip:55/天天开心","name": "⚜️开心线路"},
+{"url": "http://我不是.摸鱼儿.top","name": "⚜️摸鱼线路"},
+{"url": "https://download.kstore.space/download/2883/nzk/nzk0722.json","name": "⚜️D佬魔改线路"},
+{"url": "http://www.liuyunw.com:88/img","name": "⚜️神仙线路"},
+{"url": "https://jxjson.icu/balabala","name": "⚜️巴拉线路"},
+{"url": "https://www.macms.pro/box/3.json","name": "⚜️万达线路"},
+{"url": "https://szyyds.cn/tv/x.json","name": "⚜️小马线路"},
+{"url": "https://tv.lan2wan.top/candymuj.json","name": "⚜️看电影线路"},
+{"url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json","name": "⚜️榴莲线路"},
+{"url": "http://sinopacifichk.com/box/56.txt","name": "⚜️太平洋线路"},
+{"url": "http://www.wya6.cn/tv/yc.json","name": "⚜️无意线路"},
+{"url": "http://home.jundie.top:81/TVBox/yosakoi.json","name": "⚜️军碟线路"},
+{"url": "http://8.210.232.168/xc.json","name": "⚜️玉玉线路"},
+//https://jihulab.com/yydfys/yydf/-/raw/main/yydf/yydfjk.json
+{"url": "https://pan.shangui.cc/f/4LBAF0/ali.json","name": "⚜️业余阿里线路"},
+{"url": "https://pan.shangui.cc/f/mPecb/%E9%87%87%E9%9B%86.json","name": "⚜️业余采集线路"},
+{"url": "https://pan.shangui.cc/f/8VDbIo/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.json","name": "⚜️业余少儿线路"},
+{"url": "http://cdn.qiaoji8.com/tvbox.json","name": "⚜️巧技线路"},
+{"url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json","name": "⚜️时光机1线路"},
+{"url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json","name": "⚜️时光机2线路"},
+{"url": "https://tvbox.meitufu.com/TVBox/tv.json","name": "⚜️太阳视听线路"},
+{"url": "https://download.kstore.space/download/2883/1022tv.json","name": "⚜️魔改源线路"},
+{"url": "https://www.lianyingtv.com/fast/fast","name": "⚜️恋影线路"},
+{"url": "http://jxym.ygx888.com/vip/api.json","name": "⚜️星视界线路"},
+{"url": "http://9xi4o.tk/0725.json","name": "⚜️4K云盘线路"},
+{"url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json","name": "⚜️心魔js线路"},
+{"url": "http://ok321.top/ok","name": "⚜️OK线路"},
+{"url": "https://cf.weixine.net/ysc.json","name": "⚜️运输车线路"}
+]}
