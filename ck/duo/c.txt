@@ -1,0 +1,38 @@
+//为防止接口被用于商业演示引流，因此将所有接口前全部添加多多，不介意给我引流的话，可以直接fork或直接引用，个人用户应该无所谓。
+//此多仓接口列表为公众号【多☆多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+    "urls": [
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+            "name": "💎多多┃不良帅线路"
+        },  
+        {
+            "url": "https://jxjson.icu/balabala",
+            "name": "💎多多┃巴拉线路"
+        },             
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "💎多多┃喵影视线路"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "💎多多┃万达线路"
+        },        
+        {
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "💎多多┃小胡线路"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "💎多多┃小马线路"
+        },
+        {
+            "url": "https://tv.lan2wan.top/candymuj.json",
+            "name": "💎多多┃看电影线路"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "💎多多┃摸鱼线路"
+        }
+    ]
+}
