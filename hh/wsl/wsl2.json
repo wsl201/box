@@ -5,7 +5,7 @@
 "sites":[
 {"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃推荐","type":3,"api":"csp_Douban","searchable":0},
 {"key":"csp_豆瓣","name":"🐼┃豆瓣┃预告片","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
-{"key":"js_nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"./lib/drpy2.min.js","ext":"./lib/南瓜.js"},
+{"key":"js_nangua","name":"🎃┃南瓜┃影视┃JS","type":3,"playerType":"2","api":"./lib/drpy2.min.js","ext":"./lib/南瓜.js"},
 {"key":"csp_新视觉","name":"🐦┃新视觉┃影视","type":3,"api":"csp_Xinsj","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Nkdy","name":"🏔┃耐看┃影视","type":3,"playerType":"2","api":"csp_Nkdy"},
 {"key":"csp_NfApp","name":"🔷┃南坊┃影视","type":3,"playerType":"2","api":"csp_NfApp"},
