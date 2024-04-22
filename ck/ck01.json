@@ -1,7 +1,7 @@
 {
     "urls": [
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/wsl201/box/main/hh/wsl/wsl.json","name": "⚜️自用线路"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/wsl201/box/main/hh/wsl/ting.json","name": "⚜️听书专用路线"},
+{"url": "https://raw.kkgithub.com/wsl201/box/main/hh/wsl/wsl.json","name": "⚜️自用线路"},
+{"url": "https://raw.kkgithub.com/wsl201/box/main/hh/wsl/ting.json","name": "⚜️听书专用路线"},
 {"url": "http://我不是.肥猫.live/接口禁止贩卖","name": "⚜️肥猫线路"},
 //{"url": "http://小白.love","name": "⚜️肥猫备用1线路"},
 //{"url": "http://我不是.肥猫.live/","name": "⚜️肥猫备用2线路"},
@@ -57,8 +57,8 @@
 {"url": "https://download.kstore.space/download/2883/1022tv.json","name": "⚜️魔改源线路"},
 {"url": "https://www.lianyingtv.com/fast/fast","name": "⚜️恋影线路"},
 {"url": "http://jxym.ygx888.com/vip/api.json","name": "⚜️星视界线路"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/wsl201/box/main/a/A.txt","name": "🍵绿茶影院(优选)"},
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/wsl201/box/main/a/A1.txt","name": "🍵绿茶影院2(优选)"},
+{"url": "https://raw.kkgithub.com/wsl201/box/main/a/A.txt","name": "🍵绿茶影院(优选)"},
+{"url": "https://raw.kkgithub.com/wsl201/box/main/a/A1.txt","name": "🍵绿茶影院2(优选)"},
 {"url": "http://9xi4o.tk/0725.json","name": "⚜️4K云盘线路"},
 {"url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json","name": "⚜️心魔js线路"},
 {"url": "http://ok321.top/ok","name": "⚜️OK线路"},
