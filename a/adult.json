@@ -5,14 +5,6 @@
 {"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/wsl201/box/main/a/live/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
   "sites": [
-  {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"filterable":1,"ext":{"drives":[{"name":"木偶","server":"https://www.kugutsu.ml"}]}},
-    {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1"},
-    {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll","searchable":1,"filterable":1},
-    {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
-    {"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"filterable":1},
-    {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
-    {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","searchable":1,"filterable":1},
-    {"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
     {"key":"亚洲成人在线","name":"👙亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"草榴视频","name":"👙草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"一本道","name":"👙一本道","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
