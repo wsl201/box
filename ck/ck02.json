@@ -1,7 +1,7 @@
 {
     "urls": [
-{"url": "https://raw.kkgithub.com/wsl201/box/main/hh/wsl/wsl2.json","name": "⚜️自用线路"},
-{"url": "https://raw.kkgithub.com/wsl201/box/main/hh/wsl/ting.json","name": "⚜️听书专用路线"},
+{"url": "https://raw.github.com/wsl201/box/main/hh/wsl/wsl2.json","name": "⚜️自用线路2"},
+{"url": "https://raw.github.com/wsl201/box/main/hh/wsl/ting.json","name": "⚜️听书专用路线"},
 {"url": "http://我不是.肥猫.live/接口禁止贩卖","name": "⚜️肥猫线路"},
 //{"url": "http://小白.love","name": "⚜️肥猫备用1线路"},
 //{"url": "http://我不是.肥猫.live/","name": "⚜️肥猫备用2线路"},
@@ -20,11 +20,11 @@
 //https://proxy.api.030101.xyz/http://fongmi.eu.org/pg/jms.json
 {"url": "https://pastebin.com/raw/5NHaxyGR","name": "⚜️道长1线路"},
 {"url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json","name": "⚜️道长线2路"},
-{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "⚜️香雅情1线路"}, 
-//{"url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "⚜️香雅情1线路"}, 
+{"url": "https://github.moeyy.xyz/https://raw.github.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "⚜️香雅情1线路"}, 
+//{"url": "https://ghproxy.net/https://raw.github.com//yydfys/yydf/main/XYQTVBox/xyq.json","name": "⚜️香雅情1线路"}, 
 //{"url": "http://vipurl.icu/XYQTVBox/XYQTVBox.json","name": "⚜️香雅晴2线路"},
 //{"url": "https://jihulab.com/oAI/D/-/raw/master/XYQ.json","name": "⚜️香雅晴3线路"},
-//https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
+//https://ghproxy.com/raw.github.com/gaotianliuyun/gao/master/XYQ.json
 {"url": "https://tv.菜妮丝.top","name": "⚜️菜尼丝线路"},                      
 {"url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "⚜️南风线路"},
 {"url":"http://home.jundie.top:81/top98.json","name":"⚜️俊宇线路"},
@@ -51,8 +51,8 @@
 {"url": "https://pan.shangui.cc/f/mPecb/%E9%87%87%E9%9B%86.json","name": "⚜️业余采集线路"},
 {"url": "https://pan.shangui.cc/f/8VDbIo/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.json","name": "⚜️业余少儿线路"},
 {"url": "http://cdn.qiaoji8.com/tvbox.json","name": "⚜️巧技线路"},
-{"url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json","name": "⚜️时光机1线路"},
-{"url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json","name": "⚜️时光机2线路"},
+{"url": "https://gh.con.sh/https://raw.github.com/xmbjm/vip/main/vip4k.json","name": "⚜️时光机1线路"},
+{"url": "https://gh.con.sh/https://raw.github.com/xmbjm/vip4K/main/4Kvip.json","name": "⚜️时光机2线路"},
 {"url": "https://tvbox.meitufu.com/TVBox/tv.json","name": "⚜️太阳视听线路"},
 {"url": "https://download.kstore.space/download/2883/1022tv.json","name": "⚜️魔改源线路"},
 {"url": "https://www.lianyingtv.com/fast/fast","name": "⚜️恋影线路"},
