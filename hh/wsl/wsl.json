@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.kkgithub.com/wsl201/box/main/hh/wsl/jar/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
+"spider":"https://raw.github.com/wsl201/box/main/hh/wsl/jar/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "warningText":"接口完全免费，切勿付费购买。",
 "sites":[
@@ -16,7 +16,7 @@
 {"key":"csp_比特","name":"✌️️┃比特┃影视","type":3,"api":"csp_Bttwo"},
 {"key":"csp_荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
 {"key":"csp_Vidhub2","name":"🎼┃Vid┃影视","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_厂长","name":"🏭┃厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.cz233.com/"},
+{"key":"csp_厂长","name":"🏭┃厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czys.top/"},
 {"key":"csp_AppRZ","name":" 🕵┃忍者┃影视","type":3,"playerType":"2","api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_攻阁","name":"🏮┃攻阁┃影视","type":3,"api":"csp_Lggys","playerType":2},
 {"key":"csp_Freeok","name":"️️👌┃FreeOK┃影视","type":3,"playerType":"1","api":"csp_Freeok"},
@@ -268,7 +268,7 @@
 {"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
 ],
 "lives":[
-{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/wsl201/box/main/iptv/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.github.com/wsl201/box/main/iptv/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Fmm-m3u","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Fmm-txt","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Feimao","type":0,"playerType":1,"ua": "okhttp/3.15","url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -330,7 +330,7 @@
 {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]},
-{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
+{"name":"proxy","hosts":["raw.github.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
 {"name":"海外看","hosts":["haiwaikan"],"regex":["8.16","8.1748","10.0099","10.3333","10.85","12.33","16.0599"]},
 {"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
 {"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
