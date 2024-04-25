@@ -270,12 +270,11 @@
 {"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
 ],
 "lives":[
-{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/wsl201/box/main/iptv/qq.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"自用直播live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/wsl201/box/main/iptv/qq.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Fmm-m3u","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Fmm-txt","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Feimao","type":0,"playerType":1,"ua": "okhttp/3.15","url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"自动收集的IPv4酒店","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"安徽电信iptv内网测试","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/tvzb/tvzb.github.io/508ae358951de8b1297b59dd2860b581c30b7b46/%E5%AE%89%E5%BE%BD%E7%94%B5%E4%BF%A1(191%E4%B8%AA%E9%A2%91%E9%81%93)61-190-129-195-8686.txt#L4","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"自动收集酒店IPv4","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"fty","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://xhdwc.tk/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
   "ijk": [{"group": "软解码","options": [
