@@ -15,7 +15,7 @@
             "name": "🚀多多┃OK线路"
         },  
         {
-            "url": "http://git.sxtv.top/iduo/PG/raw/master/jsm.json",
+            "url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
             "name": "🚀多多┃PG线路"
         },                                                                            
         {
