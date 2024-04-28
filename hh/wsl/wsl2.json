@@ -7,7 +7,7 @@
 {"key":"csp_豆瓣","name":"🐼┃豆瓣┃预告片","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"js_nangua","name":"🎃┃南瓜┃影视┃JS","type":3,"playerType":"2","api":"./lib/drpy2.min.js","ext":"./lib/南瓜.js"},
 {"key":"csp_新视觉","name":"🐦┃新视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
-{"key":"csp_Nkdy","name":"🏔┃耐看┃影视","type":3,"playerType":"2","api":"csp_Nkdy"},
+{"key":"csp_Nkdy","name":"🏔┃耐看┃影视","type":3,"playerType":"2","api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NfApp","name":"🔷┃南坊┃影视","type":3,"playerType":"2","api":"csp_NfApp"},
 {"key":"csp_Czys","name":"🍊┃橙汁┃影视","type":3,"playerType":"2","api":"csp_Czys"},
 {"key":"csp_Juqq","name":"⭕┃剧圈┃影视","type":3,"playerType":"2","api":"csp_Juqq"},
@@ -266,8 +266,8 @@
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"公众号：肥猫宝贝","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-{"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
+{"name":"宝贝","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name":"最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
 ],
 "lives":[
 {"name":"自用直播live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/wsl201/box/main/iptv/qq.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -277,13 +277,7 @@
 {"name":"Auto hotels IPv4","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"fty","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://xhdwc.tk/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
-  "doh": [
-{"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
-{"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-{"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
-{"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
-{"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
-  ],
+
 "rules":[
 {"name":"♻️非凡","hosts":["ffzy"],"regex":["18.0"]},
 {"name":"♻️量子","hosts":["lz"],"regex":["17.2","19.84"]},
@@ -303,9 +297,6 @@
 {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["18.5333"]},
 {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.1"]},
-{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
 {"name":"夜市點擊","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]}
