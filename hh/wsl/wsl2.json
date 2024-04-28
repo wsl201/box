@@ -16,7 +16,7 @@
 {"key":"csp_比特","name":"✌️️┃比特┃影视","type":3,"api":"csp_Bttwo"},
 {"key":"csp_荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com"},
 {"key":"csp_Vidhub2","name":"🎼┃Vid┃影视","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_厂长","name":"🏭┃厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzy.top/"},
+{"key":"csp_厂长","name":"🏭┃厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czys.top/"},
 {"key":"csp_AppRZ","name":" 🕵┃忍者┃影视","type":3,"playerType":"2","api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_攻阁","name":"🏮┃攻阁┃影视","type":3,"api":"csp_Lggys","playerType":2},
 {"key":"csp_Freeok","name":"️️👌┃FreeOK┃影视","type":3,"playerType":"1","api":"csp_Freeok"},
