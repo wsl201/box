@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.kkgithub.com/wsl201/box/main/hh/wsl/jar/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
+"spider":"./jar/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "warningText":"接口完全免费，切勿付费购买。",
 "sites":[
@@ -8,6 +8,14 @@
 {"key":"js_nangua","name":"🎃┃南瓜┃影视┃JS","type":3,"playerType":"2","api":"./lib/drpy2.min.js","ext":"./lib/南瓜.js"},
 {"key":"csp_新视觉","name":"🐦┃新视觉┃影视┃SP","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
 {"key":"csp_Nkdy","name":"🏔┃耐看┃影视┃SP","type":3,"playerType":"2","api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"fty_短剧","name":"🌈上头┃短剧┃FTY","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+{"key": "fty_酷看","name": "💡酷看┃秒播┃FTY","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+{"key": "fty_原创","name": "☀原创┃无广┃FTY","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+{"key": "fty_南瓜","name": "🎃南瓜┃App┃FTY","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+{"key": "fty_七七","name": "👒七七┃秒播┃FTY","type": 3,"api": "csp_Kunyu77","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+{"key": "fty_白嫖","name": "👻白飘┃无广┃FTY","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/","jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+
 {"key":"csp_NfApp","name":"🔷┃南坊┃影视┃SP","type":3,"playerType":"2","api":"csp_NfApp"},
 {"key":"csp_Czys","name":"🍊┃橙汁┃影视┃SP","type":3,"playerType":"2","api":"csp_Czys"},
 {"key":"csp_Juqq","name":"⭕┃剧圈┃影视┃SP","type":3,"playerType":"2","api":"csp_Juqq"},
@@ -270,11 +278,13 @@
 ],
 "lives":[
 {"name":"自用live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/wsl201/box/main/iptv/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Fmm-m3u","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Fmm-txt","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Feimao","type":0,"playerType":1,"ua": "okhttp/3.15","url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Auto hotels IPv4","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"fty","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://xhdwc.tk/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"范明明-m3u","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"范明明-txt","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥猫","type":0,"playerType":1,"ua": "okhttp/3.15","url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"酒店IPv4自收集","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://raw.kkgithub.com/ssili126/tv/main/itvlist.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"饭太硬","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://xhdwc.tk/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name": "多线ITV","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType": 1},
+{"name": "嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"}
 ],
 "rules":[
 {"name":"♻️非凡","hosts":["ffzy"],"regex":["18.0"]},
