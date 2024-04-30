@@ -2,7 +2,7 @@
   "plugins":[
     {
 		  "name":"放屁音乐",
-		  "url":"https://gcore.jsdelivr.net/gh/HuShanquan3/MusicTvBoxMobile/py_fangpi.py",
+		  "url":"https://raw.kkgithub.com/wsl201/box/main/music/music.json",
 		  "version":"0.1.0"
 	  }
     ]
