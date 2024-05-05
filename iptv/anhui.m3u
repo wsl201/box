@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 ,安徽卫视
-https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 #EXTINF:-1 ,安徽经济
-https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 #EXTINF:-1 ,安徽综艺
-https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
 #EXTINF:-1 ,安徽影视
-https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 #EXTINF:-1 ,安徽公共
-https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
