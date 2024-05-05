@@ -1,12 +1,11 @@
-#EXTINF:-1,安徽本地
-#genre#
-#EXTINF:-1,安徽卫视
+#EXTM3U
+#EXTINF:-1 ,安徽卫视
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-#EXTINF:-1,安徽经济
+#EXTINF:-1 ,安徽经济
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
-#EXTINF:-1,安徽综艺
+#EXTINF:-1 ,安徽综艺
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
-#EXTINF:-1,安徽影视
+#EXTINF:-1 ,安徽影视
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
-#EXTINF:-1,安徽公共
+#EXTINF:-1 ,安徽公共
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
