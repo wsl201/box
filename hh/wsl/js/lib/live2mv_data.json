@@ -1,7 +1,8 @@
 [
 {"name":"安徽嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://fastly.jsdelivr.net/gh/wsl201/box@main/iptv/xiutan.m3u"},
-{"name":"范明明OfficalSite","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
-{"name":"范明明GitHub","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u"},
+{"name":"范明明OfficalSite","url":"https://live.fanmingming.com/tv/m3u/ipv6Plus.m3u"},
+{"name":"范明明GitHub","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
+{"name":"范明明GitHub-plus","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6Plus.m3u"},
 {"name":"范明明IPV6","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
 {"name":"直播","url":"https://qu.ax/bGLO.txt"},
 {"name":"饭太硬","url":"https://xhdwc.tk/tvlive.txt"}
