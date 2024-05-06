@@ -46,7 +46,7 @@
 {"sourceName": "星河3仓","sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
 {"sourceName": "星河4仓","sourceUrl": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/1"},
 {"sourceName": "星河5仓","sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"},
-{"sourceName": "久久仓","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/wsl201/box/main/a/99.json"},
+{"sourceName": "久久仓","sourceUrl": "https://fastly.jsdelivr.net/gh/wsl201/a@main/99.json"},
 {"sourceName": "安卓哥1仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
 {"sourceName": "安卓哥2仓","sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
 {"sourceName": "安卓哥3仓","sourceUrl": "https://raw.fastgit.org/leevi0709/apps/main/3"},
