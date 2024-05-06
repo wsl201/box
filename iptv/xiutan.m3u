@@ -1,53 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" group-title="安徽本地",安徽卫视
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+#EXTINF:-1 tvg-id="2" tvg-name="安徽经济" group-title="安徽本地",安徽经济
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
+#EXTINF:-1 tvg-id="3" tvg-name="安徽综艺" group-title="安徽本地",安徽综艺
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+#EXTINF:-1 tvg-id="4" tvg-name="安徽影视" group-title="安徽本地",安徽影视
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+#EXTINF:-1 tvg-id="5" tvg-name="安徽公共" group-title="安徽本地",安徽公共
+video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 video://https://yangshipin.cn/#/tv/home?pid=600001859
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 video://https://yangshipin.cn/#/tv/home?pid=600001800
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3看不了
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3看不了
 video://https://yangshipin.cn/#/tv/home?pid=600001801
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 video://https://yangshipin.cn/#/tv/home?pid=600001814
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 video://https://yangshipin.cn/#/tv/home?pid=600001818
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 video://https://yangshipin.cn/#/tv/home?pid=600001817
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6看不了
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6看不了
 video://https://yangshipin.cn/#/tv/home?pid=600001802
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 video://https://yangshipin.cn/#/tv/home?pid=600004092
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8看不了
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8看不了
 video://https://yangshipin.cn/#/tv/home?pid=600001803
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 video://https://yangshipin.cn/#/tv/home?pid=600004078
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 video://https://yangshipin.cn/#/tv/home?pid=600001805
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 video://https://yangshipin.cn/#/tv/home?pid=600001806
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 video://https://yangshipin.cn/#/tv/home?pid=600001807
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 video://https://yangshipin.cn/#/tv/home?pid=600001811
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="20" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 video://https://yangshipin.cn/#/tv/home?pid=600001809
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-id="21" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 video://https://yangshipin.cn/#/tv/home?pid=600001815
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 video://https://yangshipin.cn/#/tv/home?pid=600098637
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 video://https://yangshipin.cn/#/tv/home?pid=600001810
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k
+#EXTINF:-1 tvg-id="24" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k
 video://https://yangshipin.cn/#/tv/home?pid=600002264
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 video://https://yangshipin.cn/#/tv/home?pid=600014550
-#EXTINF:-1 tvg-id="21" tvg-name="CGTN外语纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN外语纪录
+#EXTINF:-1 tvg-id="26" tvg-name="CGTN外语纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN外语纪录
 video://https://yangshipin.cn/#/tv/home?pid=600084781
-#EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
+#EXTINF:-1 tvg-id="27" tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
 video://https://yangshipin.cn/#/tv/home?pid=600084704
-#EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
+#EXTINF:-1 tvg-id="28" tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
 video://https://yangshipin.cn/#/tv/home?pid=600084758
-#EXTINF:-1 tvg-id="24" tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="29" tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语
 video://https://yangshipin.cn/#/tv/home?pid=600084782
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
+#EXTINF:-1 tvg-id="30" tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语
 video://https://yangshipin.cn/#/tv/home?pid=600002503
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" group-title="卫视",浙江卫视高清
 video://https://yangshipin.cn/#/tv/home?pid=600002520
@@ -91,13 +101,3 @@ video://https://yangshipin.cn/#/tv/home?pid=600002506
 video://https://yangshipin.cn/#/tv/home?pid=600002505    
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视高清
 video://https://yangshipin.cn/#/tv/home?pid=600002498
-#EXTINF:-1 tvg-id="47" tvg-name="安徽卫视" group-title="安徽本地",安徽卫视
-video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
-#EXTINF:-1 tvg-id="48" tvg-name="安徽经济" group-title="安徽本地",安徽经济
-video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
-#EXTINF:-1 tvg-id="49" tvg-name="安徽综艺" group-title="安徽本地",安徽综艺
-video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
-#EXTINF:-1 tvg-id="50" tvg-name="安徽影视" group-title="安徽本地",安徽影视
-video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
-#EXTINF:-1 tvg-id="51" tvg-name="安徽公共" group-title="安徽本地",安徽公共
-video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
