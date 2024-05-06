@@ -1,7 +1,7 @@
 {
   "lives":[
-{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/box@main/a/live/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"live2","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/box@main/a/live/adult-2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/iptv@main/a/adult.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live2","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/iptv@main/a/adult-2.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
   "sites": [
 {"key":"xml_zy_明凡","name":"🐱 | 明凡资源┃XML","type": 0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","ads":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"],"categories":["国产剧","港台剧","动画片","大陆综艺","国产动漫","武侠片","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩剧","欧美剧","奇幻片","犯罪片","日韩综艺","其他综艺","悬疑片","冒险片","演员库","惊悚片","灾难片","海外剧","其他剧","其他片","歌舞片","传记片","历史片","日韩动漫","欧美动漫","资讯分类","影视资讯","国创","B站","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","网球","篮球","斯诺克","泰剧","预告片"]},
