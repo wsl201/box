@@ -3,14 +3,13 @@
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "warningText":"接口完全免费，切勿付费购买。",
 "sites":[
-{"key":"drpy_js_豆瓣","name":"🐼┃豆瓣┃推荐┃SP","type":3,"api":"csp_Douban","searchable":0},
-{"key":"csp_豆瓣","name":"🐼┃豆瓣┃预告片┃SP","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"csp_樱花动漫","name":"🌸┃樱花┃动漫┃SP","type":3,"playerType":"2","api":"csp_Ying"},
 {"key":"csp_Dm84","name":"🤣┃动漫┃巴士┃SP","type":3,"playerType":"2","api":"csp_Dm84"},
 {"key":"csp_Anime1","name":"🐶┃日本┃动漫┃SP","type":3,"playerType":"2","api":"csp_Anime1"},
 {"key":"csp_Ysj","name":"📺┃異界┃动漫┃SP","type":3,"playerType":"2","api":"csp_Ysj"},
 {"key":"csp_xifan","name":"🍚┃稀饭┃动漫┃SP","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xml_zy_明凡","name":"🐱 | 明凡资源┃XML","type": 0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","ads":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"],"categories":["动画片","国产动漫","动漫","日韩动漫","欧美动漫","国创","B站","番剧","港台动漫","海外动漫"]},
+{"key":"csp_豆瓣","name":"🐼┃豆瓣┃预告片┃SP","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key": "xml_zy_量子资源","name": " 🌼┃量子资源┃XML","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/","playUrl": "https://lziplayer.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 {"key": "xml_zy_iKun资源","name": " ☃┃iKun资源┃XML","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["动画片","国产动漫","欧美动漫","日本动漫"]},
 
