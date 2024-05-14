@@ -46,7 +46,7 @@
 {"name":"最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
 ],
 "lives":[
-{"name":"动画live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://ghproxy.net/https://raw.githubusercontent.com/wsl201/live/main/hh/wsl/dh.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"动画live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/live@main/hh/wsl/dh.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "rules":[
 {"name":"♻️非凡","hosts":["ffzy"],"regex":["18.0"]},
