@@ -14,7 +14,7 @@
 {"key": "fty_酷看","name": "💡酷看┃秒播┃FTY","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
 {"key": "fty_原创","name": "☀原创┃无广┃FTY","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
 {"key": "fty_南瓜","name": "🎃南瓜┃App┃FTY","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
-{"key": "fty_七七","name": "👒七七┃秒播┃FTY","type": 3,"api": "csp_Kunyu77","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
+{"key": "fty_七七","name": "👒七七┃秒播┃FTY","type": 3,"api": "csp_Kunyu77","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
 {"key": "fty_白嫖","name": "👻白飘┃无广┃FTY","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/","jar": "./jar/fty.jar;md5;ca8aebf22c8948c98104d094d5f87c73"},
 
 {"key":"csp_NfApp","name":"🔷┃南坊┃影视┃SP","type":3,"playerType":"2","api":"csp_NfApp"},
