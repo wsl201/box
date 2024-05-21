@@ -14,7 +14,7 @@
 {"key": "fty_原创","name": "☀原创┃无广┃FTY","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
 {"key": "fty_南瓜","name": "🎃南瓜┃App┃FTY","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
 {"key":"fty_糯米","name":"🍙糯米┃秒播┃FTY","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
-{"key":"fty_小点","name":"💥小点┃多线┃FTY","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
+{"key":"fty_小点","name":"💥小点┃多线┃FTY","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
 
 {"key":"csp_NfApp","name":"🔷┃南坊┃影视┃SP","type":3,"playerType":"2","api":"csp_NfApp"},
 {"key":"csp_Czys","name":"🍊┃橙汁┃影视┃SP","type":3,"playerType":"2","api":"csp_Czys"},
