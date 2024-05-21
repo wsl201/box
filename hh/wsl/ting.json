@@ -1,9 +1,9 @@
 {
-"spider":"./jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
+"spider":"./jar/PandaQ240520.jar;md5;a54d8706e2f3965271eb8503bd8ebe82",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
-"warningText":"接口完全免费，切勿付费购买。",
 "sites":[
 {"key":"csp_BookTing","name":"📚┃听书┃音频┃SP","type":3,"playerType":"2","api":"csp_BookTing","searchable":1,"ext":"https://m.ting275.com","style":{"type":"rect","ratio":1.333}},
+{"key":"csp_YouShengBook","name":"📚┃有声┃小说┃SP","type":3,"playerType":"2","api":"csp_YouShengBook","searchable":0,"style":{"type":"rect","ratio":1.333}},
 {"key":"230ts_js","name":"爱上你听书网[影视专用]┃JS","type":3,"api":"./js/cat/230ts_open.js"},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM┃JS","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/蜻蜓FM.js","playerType":"2"},
 {"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM┃JS","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/广播迷FM.js","playerType":"2"},

@@ -1,7 +1,6 @@
 {
-"spider":"./jar/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
+"spider":"./jar/PandaQ240520.jar;md5;a54d8706e2f3965271eb8503bd8ebe82",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
-"warningText":"接口完全免费，切勿付费购买。",
 "sites":[
 {"key":"csp_樱花动漫","name":"🌸┃樱花┃动漫┃SP","type":3,"playerType":"2","api":"csp_Ying"},
 {"key":"csp_Dm84","name":"🤣┃动漫┃巴士┃SP","type":3,"playerType":"2","api":"csp_Dm84"},
