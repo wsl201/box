@@ -16,7 +16,6 @@
 {"key":"fty_糯米","name":"🍙糯米┃秒播┃FTY","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
 {"key":"fty_小点","name":"💥小点┃多线┃FTY","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar": "./jar/fty.jar;md5;f4a9956bae884c4a952da9152c0ed446"},
 
-{"key":"csp_NfApp","name":"🔷┃南坊┃影视┃SP","type":3,"playerType":"2","api":"csp_NfApp"},
 {"key":"csp_Czys","name":"🍊┃橙汁┃影视┃SP","type":3,"playerType":"2","api":"csp_Czys"},
 {"key":"csp_Juqq","name":"⭕┃剧圈┃影视┃SP","type":3,"playerType":"2","api":"csp_Juqq"},
 {"key":"csp_LiteApple","name":"🍎┃苹果┃影视┃SP","type":3,"playerType":"2","api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,7 +26,7 @@
 {"key":"csp_AppRZ","name":" 🕵┃忍者┃影视┃SP","type":3,"playerType":"2","api":"csp_AppRZ","ext":"http://rzys.xyz/"},
 {"key":"csp_攻阁","name":"🏮┃攻阁┃影视┃SP","type":3,"api":"csp_Lggys","playerType":2},
 {"key":"csp_Freeok","name":"️️👌┃FreeOK┃影视┃SP","type":3,"playerType":"1","api":"csp_Freeok"},
-{"key":"csp_Nmys","name":"🌾┃农民┃影视┃SP","type":3,"api":"csp_Nmys","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.nmvod.cn"},
+{"key":"csp_Nmys","name":"🌾┃农民┃影视┃SP","type":3,"api":"csp_Nmys","timeout":15,"playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 {"key":"csp_Auete","name":"🦝┃Aue┃影视┃SP","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀┃快看┃影视┃SP","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js_Libvio","name":"💐┃Lib┃影视┃JS","type":3,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./lib/LIBVIO.js"},
