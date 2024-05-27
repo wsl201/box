@@ -3,8 +3,12 @@
 {
     "urls": [
         {
-            "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐹多多┃南风线路"
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "🐹多多┃菜妮丝线路"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🐹多多┃潇洒线路"
         },
         {
             "url": "http://rihou.vip:55/天天开心",
@@ -15,7 +19,7 @@
             "name": "🐹多多┃D佬魔改"
         },                                    
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "🐹多多┃月光线路"
         },
         {
@@ -27,15 +31,19 @@
             "name": "🐹多多┃吾爱线路"
         },   
         {
-            "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
-            "name": "🐹东辰线路"
-        },         
+            "url": "https://gitee.com/dongchenys/liu/raw/master/hb.json",
+            "name": "🐹多多┃东辰线路"
+        },  
+        {
+            "url": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🐹多多┃南风线路"
+        },       
         {
             "url": "http://8.210.232.168/xc.json",
             "name": "🐹多多┃星辰线路"
         },          
         {
-            "url": "http://www.liuyunw.com:88/img",
+            "url": "http://dp.sxtv.top:88/img",
             "name": "🐹多多┃神仙线路"
         }
     ]
