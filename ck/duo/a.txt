@@ -3,7 +3,7 @@
 {
     "urls": [	
         {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://饭太硬.com/tv",
             "name": "🚀多多┃饭太硬线路"
         },                      
         {
@@ -15,7 +15,7 @@
             "name": "🚀多多┃OK线路"
         },  
         {
-            "url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
             "name": "🚀多多┃PG线路"
         },                                                                            
         {
