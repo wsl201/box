@@ -13,7 +13,7 @@
 ],
   "sites": [
 {"key":"fm_豆瓣","name":"🐼┃豆瓣┃推荐","type":3,"api":"csp_Douban","searchable":0},
-{"key":"fm_豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
+{"key":"cps_豆瓣","name":"🐼┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"csp_Duopan","name":"🖍︎┃蜡笔┃影视","type":3,"api":"csp_Duopan","playerType":2,"filterable":1,"ext":"https://duopan.fun/"},
 {"key":"fm_nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"./lib/ng_open.js"},
 {"key":"fm_新视觉","name":"🐦┃视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
