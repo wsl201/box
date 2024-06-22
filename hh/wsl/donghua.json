@@ -1,5 +1,5 @@
 {
-  "spider": "./PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+  "spider": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
 "lives":[
 {"name":"动画live","type":0,"playerType":1,"ua": "okhttp/3.15","url":"https://www.gitlink.org.cn/api/wsl201/live/raw/hh%2Fwsl%2Fdh.txt?ref=main","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
