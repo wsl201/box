@@ -2,11 +2,11 @@
 "storeHouse":
 [
 {"sourceName":"⚜️大佬接口","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/ck01.json"},
-{"sourceName":"❤️精简仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"},
-{"sourceName":"💚优选仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"},
-{"sourceName":"💛公众仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"},
-{"sourceName":"❤️聚合仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"},
-{"sourceName":"💜预备仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/d.txt?ref=main"},
+{"sourceName":"❤️精简仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main"},
+{"sourceName":"💚优选仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/a.txt?ref=main"},
+{"sourceName":"💛公众仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/b.txt?ref=main"},
+{"sourceName":"❤️聚合仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/c.txt?ref=main"},
+{"sourceName":"💜预备仓(主)","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/d.txt?ref=main"},
 {"sourceName":"❤️精简仓(备)","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/duo/duo.json"},
 {"sourceName":"💚优选仓(备)","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/duo/a.txt"},
 {"sourceName":"💛公众仓(备)","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/duo/b.txt"},
