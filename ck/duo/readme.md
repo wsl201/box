@@ -1,9 +1,9 @@
-https://www.gitlink.org.cn/api/leevi0321/cool/raw/duo.json?ref=main
+https://gitee.com/wsl201/box/raw/main/ck/duo/line.json
 
-https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/a.txt?ref=main
+https://gitee.com/wsl201/box/raw/main/ck/duo/公众号多多影音.txt
 
-https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/b.txt?ref=main
+https://gitee.com/wsl201/box/raw/main/ck/duo/公众号多多APP.txt
 
-https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/c.txt?ref=main
+https://gitee.com/wsl201/box/raw/main/ck/duo/公众号应用边界.txt
 
-https://www.gitlink.org.cn/api/leevi0321/cool/raw/ck/d.txt?ref=main
+https://gitee.com/wsl201/box/raw/main/ck/duo/公众号多多应用汇.txt
