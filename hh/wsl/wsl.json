@@ -2,13 +2,11 @@
   "spider": "./jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
 "lives":[
-{"name":"自用jsdelivr","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/wsl201/live@main/hh/wsl/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"自用Github","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://ghp.ci/https://raw.githubusercontent.com/wsl201/live/main/hh/wsl/zb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明明-m3u","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明明-txt","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"feimao","type":0,"playerType":2,"ua": "okhttp/3.15","url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"酒店IPv4自收集","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/ssili126/tv@main/itvlist.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"fantaiying","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://xhdwc.tk/tvlive.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  {"name":"⚜️gitee-fmm","type":0,"url":"https://gitee.com/wsl201/oktv/raw/main/fmm.txt","User-Agent":"okhttp/5.0.0-alpha.14","epg":"https://live.fanmingming.cn/e.xml","logo":"https://live.fanmingming.cn/tv/{name}.png"},
+  {"name":"⚜️jsdelivr-fmm","type":0,"url":"https://fastly.jsdelivr.net/gh/wsl201/live@main/fmm.txt","User-Agent":"okhttp/5.0.0-alpha.14","epg":"https://epg.zbds.top/index.php?ch={name}","logo":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"},
+  {"name":"📺青龙电视","type":0,"url":"https://6758.kstore.space/666.txt","playerType":1,"User-Agent":"okhttp/5.0.0-alpha.14","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"},
+{"name":"范明明-txt","type":0,"playerType":2,"ua": "okhttp/5.0.0-alpha.14","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"https://live.fanmingming.cn/e.xml","logo":"https://live.fanmingming.cn/tv/{name}.png"},
+{"name":"酒店IPv4自收集","type":0,"playerType":2,"ua": "okhttp/3.15","url":"https://fastly.jsdelivr.net/gh/ssili126/ds@main/itvlist.txt","epg":"https://live.fanmingming.cn/e.xml","logo":"https://live.fanmingming.cn/tv/{name}.png"},
 {"name": "安徽嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://fastly.jsdelivr.net/gh/wsl201/live@main/hh/wsl/xiutan.m3u"},
 {"name": "嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"}
 ],
