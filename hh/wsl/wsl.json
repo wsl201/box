@@ -3,6 +3,7 @@
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
 "lives":[
   {"name":"⚜️gitee-fmm","type":0,"url":"https://gitee.com/wsl201/oktv/raw/main/fmm.txt","User-Agent":"okhttp/5.0.0-alpha.14","epg":"https://live.fanmingming.cn/e.xml","logo":"https://live.fanmingming.cn/tv/{name}.png"},
+  {"name":"⚜️调试助手ba","type":0,"url":"https://gitee.com/xxy002/zhiboyuan/raw/master/dsy","User-Agent":"okhttp/5.0.0-alpha.14","epg":"https://live.fanmingming.cn/e.xml","logo":"https://live.fanmingming.cn/tv/{name}.png"},
   {"name":"⚜️jsdelivr-fmm","type":0,"url":"https://fastly.jsdelivr.net/gh/wsl201/live@main/fmm.txt","User-Agent":"okhttp/5.0.0-alpha.14","epg":"https://epg.zbds.top/index.php?ch={name}","logo":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"},
   {"name":"📺青龙电视","type":0,"url":"https://6758.kstore.space/666.txt","playerType":1,"User-Agent":"okhttp/5.0.0-alpha.14","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"},
 {"name":"范明明-txt","type":0,"playerType":2,"ua": "okhttp/5.0.0-alpha.14","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt","epg":"https://live.fanmingming.cn/e.xml","logo":"https://live.fanmingming.cn/tv/{name}.png"},
