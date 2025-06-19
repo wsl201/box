@@ -1,3 +1,6 @@
+#上传规则
+先上传到Github上，再同步到Gitee上
+
 # 加速规则
 ghproxy.net 有抽风现象 
 
