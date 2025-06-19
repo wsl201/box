@@ -1,6 +1,8 @@
 # 上传规则
 先上传到Github上，再同步到Gitee上
 
+https://gitee.com/wsl201/box/raw/main/png/{name}.png
+
 # 加速规则
 ghproxy.net 有抽风现象 
 
