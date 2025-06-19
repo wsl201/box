@@ -47,8 +47,12 @@
             "name": "🐹多多┃蜗牛线路"
         }, 
         {
-            "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "🐹多多┃青龙线路"
+            "url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+            "name": "🐲青龙线路new"
+        },	
+        {
+            "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
+            "name": "🐲青龙线路"
         }
     ]
 }

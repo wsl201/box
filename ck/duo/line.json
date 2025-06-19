@@ -19,7 +19,7 @@
         },                    
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀香雅情线路"
+            "name": "🚀潇洒线路"
         },	   
         {
             "url": "http://tvbox.王二小放牛娃.top",
@@ -78,8 +78,12 @@
             "name": "🚀高天流云"
         },
         {
+            "url":"https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
+            "name": "🐲青龙线路new"
+        },	
+        {
             "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "🚀青龙线路"
+            "name": "🐲青龙线路"
         }		
     ]
 }
