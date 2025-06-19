@@ -2,11 +2,9 @@
 "storeHouse":
 [
 {"sourceName":"❤️精简仓(备)","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/duo/line.json"},
-{"sourceName":"❤️精简仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/line.json"},
 {"sourceName":"💚优选仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
-{"sourceName":"💛公众仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多APP.txt"},
-{"sourceName":"❤️聚合仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号应用边界.txt"},
-{"sourceName":"💜预备仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
+{"sourceName":"💛公众仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt""},
+{"sourceName":"❤️聚合仓(主)","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
 {"sourceName":"⚜️大佬接口","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/ck01.json"},
 {"sourceName":"💚优选仓(备)","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/duo/公众号多多影音.txt"},
 {"sourceName":"💛公众仓(备)","sourceUrl":"https://gitee.com/wsl201/box/raw/main/ck/duo/公众号多多APP.txt"},
