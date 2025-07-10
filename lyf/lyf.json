@@ -158,7 +158,7 @@
 	"key": "xml_zy_电影天堂",
 	"name": " 🎬️┃电影天堂┃资源",
 	"type": 0,
-	"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+	"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/xml/",
 	"playUrl": "https://vip.dyttzyplay.com/?url=",
 	"searchable": 1,
 	"quickSearch": 1,
@@ -217,8 +217,8 @@
     {
 	"key": "xml_zy_360",
 	"name": "  🌐┃360┃资源",
-	"type": 1,
-	"api": "https://360zy.com/api.php/provide/vod",
+	"type": 0,
+	"api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/xml",
 	"playUrl": "https://www.360jiexi.com/player/?url= ",
 	"searchable": 1,
 	"quickSearch": 1,
@@ -242,7 +242,7 @@
 	"key": "xml_zy_IKun",
 	"name": "  ⛹┃IKun┃资源",
 	"type": 0,
-	"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+	"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
 	"playUrl": "https://www.ikdmjx.com/?url=",
 	"searchable": 1,
 	"quickSearch": 1,
@@ -254,7 +254,7 @@
 	"key": "xml_zy_量子资源",
 	"name": "  ☢┃量子┃资源",
 	"type": 0,
-	"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+	"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
 	"searchable": 1,
 	"quickSearch": 1,
                 "changeable": 1,
@@ -270,7 +270,7 @@
 	"quickSearch": 1,
                 "changeable": 1,
 	"filterable": 1,
-	"categories": ["短剧"]
+	"categories": ["短剧","男频","女频","都市","赘婿","战神","古代言情","现代言情","历史","脑洞","玄幻","搞笑","喜剧","萌宝","神豪","致富","奇幻脑洞","超能","强者回归","甜宠","励志","豪门恩怨","复仇","长生","神医","马甲","亲情","小人物","奇幻","无敌","现实","重生","闪婚","职场商战","穿越","年代","权谋","高手下山","悬疑","家国情仇","虐恋","古装","时空之旅","玄幻仙侠","欢喜冤家","传承觉醒","情感","逆袭","家庭"]
     },
     {
       "key": "csp_FeiMaoUC",
