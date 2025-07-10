@@ -394,21 +394,6 @@
       "api": "csp_SP360"
     },
     {
-      "key": "csp_Bili",
-      "name": "🅱┃️哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 2,
-      "ext": {
-        "json": "./lib/bili.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-    {
       "key": "csp_Dm84",
       "name": "🤣┃动漫┃巴士",
       "type": 3,
@@ -460,17 +445,6 @@
       }
     },
     {
-      "key": "娱乐",
-      "name": "🎮┃游戏┃娱乐",
-      "type": 3,
-      "api": "./lib/LIVES.py",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
-      "ext": ""
-    },
-    {
       "key": "看球",
       "name": "⚾┃看球┃直播",
       "type": 3,
@@ -482,18 +456,6 @@
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "🏀┃体育┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"
     },
     {
       "key": "米搜",
@@ -508,20 +470,6 @@
       "type": 3,
       "api": "csp_PanSearch",
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "儿童",
-      "name": "📚┃儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/兔小贝.js"
     },
     {
       "key": "csp_少儿",
