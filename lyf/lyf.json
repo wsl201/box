@@ -241,8 +241,8 @@
     {
 	"key": "xml_zy_IKun",
 	"name": "  ⛹┃IKun┃资源",
-	"type": 1,
-	"api": "https://ikunzyapi.com/api.php/provide/vod",
+	"type": 0,
+	"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
 	"playUrl": "https://www.ikdmjx.com/?url=",
 	"searchable": 1,
 	"quickSearch": 1,
@@ -269,7 +269,8 @@
 	"searchable": 1,
 	"quickSearch": 1,
                 "changeable": 1,
-	"filterable": 1
+	"filterable": 1,
+	"categories": ["短剧"]
     },
     {
       "key": "csp_FeiMaoUC",
