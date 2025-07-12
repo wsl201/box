@@ -14,7 +14,7 @@
 			"name": " 🐐肥羊OpenWrt",
 			"type": 0,
 			"url": "https://gitee.com/wsl201/oktv/raw/main/fy.txt",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
+			"User-Agent": "okhttp/5.0.0-alpha.14",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
@@ -22,7 +22,7 @@
 			"name": " 🐐肥羊•TV助手",
 			"type": 0,
 			"url": "https://fy.188766.xyz/?ip=49.235.130.139",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
+			"User-Agent": "okhttp/5.0.0-alpha.14",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
 		},
@@ -32,7 +32,7 @@
 			"url": "http://192.168.10.2:35456/m3u/2",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
+			"ua": "okhttp/5.0.0-alpha.14",
 			"timeout": 10
 		},
 		{
