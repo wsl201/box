@@ -26,10 +26,10 @@
 		{
 			"name": " 🐐肥羊•TV-format",
 			"type": 0,
-			"url": "http://192.168.10.2:35456/m3u/2",
+			"url": "https://gitee.com/explorerromos/zhiboyuandiy/raw/master/lt.cnr",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
 			"timeout": 10
 		},
 		{
