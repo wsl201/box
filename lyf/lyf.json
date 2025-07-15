@@ -372,8 +372,8 @@
 		{
 			"key": "xml_zy_无尽",
 			"name": "  🏋┃无尽┃资源",
-			"type": 1,
-			"api": "https://api.wujinapi.me/api.php/provide/vod/",
+			"type": 0,
+			"api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
