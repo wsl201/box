@@ -186,7 +186,7 @@
 			"key": "xml_zy_天涯影视",
 			"name": "  🏔┃天涯影视┃资源",
 			"type": 1,
-			"api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+			"api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
