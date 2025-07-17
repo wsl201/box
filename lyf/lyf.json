@@ -35,7 +35,7 @@
 		{
 			"name": "📺青龙电视",
 			"type": 0,
-			"url": "https://pan.baidu.re/down.php/c0abcb4a572aef3c573a25227d90757c.txt",
+			"url": "https://6758.kstore.space/666.txt",
 			"playerType": 1,
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
 			"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -58,6 +58,14 @@
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
 			"timeout": 10
+		},
+		{
+			"name": "qqqtv",
+			"type": 0,
+			"url": "http://jk.qqqtv.top/zb.txt",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10"
 		},
 		{
 			"name": "☎️中国移动",
