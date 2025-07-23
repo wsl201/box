@@ -21,7 +21,10 @@
 		{
 			"name": " 🐐肥羊•TV助手",
 			"type": 0,
-			"url": "https://fy.188766.xyz/?ip=tv123.top"
+			"url": "https://fy.188766.xyz/?ip=tv123.top",
+			"User-Agent": "okhttp/5.0.0-alpha.14",
+			"epg": "https://live.fanmingming.cn/e.xml",
+			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
 		{
 			"name": " 🐐肥羊•TV-format",
