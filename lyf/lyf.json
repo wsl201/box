@@ -47,7 +47,7 @@
 		{
 			"name": "suxuang",
 			"type": 0,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4a.m3u",
+			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.10",
