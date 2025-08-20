@@ -20,7 +20,7 @@
 		{
 			"name": " 🐐肥羊•TV助手",
 			"type": 0,
-			"url": "https://fy.188766.xyz/?ip=tv123.top",
+			"url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
@@ -99,7 +99,7 @@
 		{
 			"name": " 🐏肥羊•IPTV",
 			"type": 0,
-			"url": "http://192.168.10.2:35455/tv.m3u",
+			"url": "https://fy.188766.xyz/?ip=tv123.top",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
@@ -107,7 +107,7 @@
 		{
 			"name": " 🐏肥羊•虎牙一起看",
 			"type": 0,
-			"url": "https://www.goodiptv.club/huyayqk.m3u",
+			"url": "http://192.168.10.2:35455/huyayqk.m3u",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
@@ -115,7 +115,7 @@
 		{
 			"name": " 🐏肥羊•BiliBili生活",
 			"type": 0,
-			"url": "https://www.goodiptv.club/bililive.m3u",
+			"url": "http://192.168.10.2:35455/bililive.m3u",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
@@ -123,7 +123,7 @@
 		{
 			"name": " 🐏肥羊•斗鱼一起看",
 			"type": 0,
-			"url": "https://www.goodiptv.club/douyuyqk.m3u",
+			"url": "http://192.168.10.2:35455/douyuyqk.m3u",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
@@ -131,7 +131,7 @@
 		{
 			"name": " 🐏肥羊•YY轮播",
 			"type": 0,
-			"url": "https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top",
+			"url": "http://192.168.10.2:35455/yylunbo.m3u",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
