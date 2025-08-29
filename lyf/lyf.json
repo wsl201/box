@@ -73,7 +73,7 @@
 		{
 			"name": "☎️中国移动",
 			"type": 0,
-			"url": "https://gitee.com/wsl201/oktv/raw/main/bkpcp.txt",
+			"url": "https://gitee.com/wsl201/oktv/raw/main/bkpcp.m3u",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
