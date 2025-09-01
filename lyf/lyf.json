@@ -5,7 +5,7 @@
 			"name": " 📺gitee-itv",
 			"type": 0,
 			"url": "https://gitee.com/wsl201/oktv/raw/main/itv.txt",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"timeout": 10
@@ -14,7 +14,7 @@
 			"name": " 💻电信内网",
 			"type": 0,
 			"url": "https://gitee.com/wsl201/oktv/raw/main/neiwang.txt",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
@@ -22,17 +22,17 @@
 			"name": " 🐐肥羊•TV助手",
 			"type": 0,
 			"url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
 		{
-			"name": " 🐐肥羊•TV-format",
+			"name": "直播源DIY",
 			"type": 0,
-			"url": "https://gitee.com/explorerromos/zhiboyuandiy/raw/master/lt.cnr",
+			"url": "https://gitee.com/explorerromos/zhiboyuandiy/raw/master/at.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"timeout": 10
 		},
 		{
@@ -40,7 +40,7 @@
 			"type": 0,
 			"url": "https://6758.kstore.space/666.txt",
 			"playerType": 1,
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
 			"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/wsl201/box/main/png/{name}.png"
 		},
@@ -50,7 +50,7 @@
 			"url": "https://gh-proxy.com/github.com/suxuang/myIPTV/raw/main/移动专享.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"timeout": 10
 		},
 		{
@@ -59,7 +59,7 @@
 			"url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"timeout": 10
 		},
 		{
@@ -68,15 +68,24 @@
 			"url": "http://jk.qqqtv.top/zb.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11"
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12"
+		},
+		{
+			"name": " 🏎咪咕bkpcp",
+			"type": 0,
+			"url": "https://gitee.com/wsl201/oktv/raw/main/bkpcp.txt",
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
+			"timeout": 10
 		},
 		{
 			"name": "☎️中国移动",
 			"type": 0,
-			"url": "https://gitee.com/wsl201/oktv/raw/main/bkpcp.m3u",
+			"url": "https://gitee.com/wsl201/oktv/raw/main/zgyd.m3u",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"timeout": 10
 		},
 		{
@@ -85,7 +94,7 @@
 			"url": "https://gh-proxy.com/github.com/Kimentanm/aptv/raw/master/m3u/ahyd.m3u",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"timeout": 10
 		},
 		{
@@ -94,14 +103,14 @@
 			"url": "https://gh-proxy.com/github.com/suxuang/myIPTV/raw/main/移动专享.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
-			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"timeout": 10
 		},
 		{
 			"name": " 🐏肥羊•IPTV",
 			"type": 0,
 			"url": "https://fy.188766.xyz/?ip=tv123.top",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
@@ -109,7 +118,7 @@
 			"name": " 🐏肥羊•虎牙一起看",
 			"type": 0,
 			"url": "http://192.168.10.2:35455/huyayqk.m3u",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
@@ -117,7 +126,7 @@
 			"name": " 🐏肥羊•BiliBili生活",
 			"type": 0,
 			"url": "http://192.168.10.2:35455/bililive.m3u",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
 		},
@@ -125,7 +134,7 @@
 			"name": " 🐏肥羊•斗鱼一起看",
 			"type": 0,
 			"url": "http://192.168.10.2:35455/douyuyqk.m3u",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
 		},
@@ -133,7 +142,7 @@
 			"name": " 🐏肥羊•YY轮播",
 			"type": 0,
 			"url": "http://192.168.10.2:35455/yylunbo.m3u",
-			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.11",
+			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://live.fanmingming.cn/tv/{name}.png"
 		}
