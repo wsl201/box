@@ -91,7 +91,7 @@
 		{
 			"name": "📞安徽移动",
 			"type": 0,
-			"url": "https://gh-proxy.com/github.com/Kimentanm/aptv/raw/master/m3u/ahyd.m3u",
+			"url": "https://gitee.com/wsl201/oktv/raw/main/ahyd.m3u",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
