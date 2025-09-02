@@ -47,7 +47,7 @@
 		{
 			"name": "suxuang",
 			"type": 0,
-			"url": "https://gh-proxy.com/github.com/suxuang/myIPTV/raw/main/移动专享.txt",
+			"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
@@ -100,7 +100,7 @@
 		{
 			"name": "☎️黑龙江移动",
 			"type": 0,
-			"url": "https://gh-proxy.com/github.com/suxuang/myIPTV/raw/main/移动专享.txt",
+			"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
