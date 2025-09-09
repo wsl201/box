@@ -46,7 +46,7 @@
 		{
 			"name": "suxuang",
 			"type": 0,
-			"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt",
+			"url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
@@ -99,7 +99,7 @@
 		{
 			"name": "☎️黑龙江移动",
 			"type": 0,
-			"url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt",
+			"url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/移动专享.txt",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png",
 			"ua": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
@@ -108,7 +108,7 @@
 		{
 			"name": " 🐏肥羊•IPTV",
 			"type": 0,
-			"url": "https://fy.188766.xyz/?ip=tv123.top",
+			"url": "https://fy.188766.xyz/?ip=192.168.10.2",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "https://live.fanmingming.cn/e.xml",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
