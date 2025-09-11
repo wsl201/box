@@ -13,7 +13,7 @@
 		{
 			"name": " 💻电信内网",
 			"type": 0,
-			"url": "https://gitee.com/wsl201/oktv/raw/main/neiwang.txt",
+			"url": "https://gitee.com/wsl201/oktv/raw/main/LAN.txt",
 			"User-Agent": "okhttp/5.0.0-alpha.14,AptvPlayer/1.4.12",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 			"logo": "https://gitee.com/wsl201/box/raw/main/png/{name}.png"
