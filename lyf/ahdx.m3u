@@ -184,17 +184,17 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shss8m/8000000/mnf.
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/yxfy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="中国天气" group-title="精品•电信" tvg-name="中国天气" tvg-logo="https://livecdn.zbds.org/logo/中国天气.png",中国天气
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgqxhd4mc/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BesTV百变课堂" group-title="精品•电信" tvg-name="BesTV百变课堂" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV百变课堂
+#EXTINF:-1 tvg-id="BesTV百变课堂" group-title="精品•电信" tvg-name="BesTV百变课堂" tvg-logo="https://livecdn.zbds.org/logo/BesTV百变课堂.png",BesTV百变课堂
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BesTV宝宝动画" group-title="精品•电信" tvg-name="BesTV宝宝动画" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV宝宝动画
+#EXTINF:-1 tvg-id="BesTV宝宝动画" group-title="精品•电信" tvg-name="BesTV宝宝动画" tvg-logo="https://livecdn.zbds.org/logo/BesTV宝宝动画.png",BesTV宝宝动画
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BesTV电竞天堂" group-title="精品•电信" tvg-name="BesTV电竞天堂" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV电竞天堂
+#EXTINF:-1 tvg-id="BesTV电竞天堂" group-title="精品•电信" tvg-name="BesTV电竞天堂" tvg-logo="https://livecdn.zbds.org/logo/BesTV电竞天堂.png",BesTV电竞天堂
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BesTV谍战剧场" group-title="精品•电信" tvg-name="BesTV谍战剧场" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV谍战剧场
+#EXTINF:-1 tvg-id="BesTV谍战剧场" group-title="精品•电信" tvg-name="BesTV谍战剧场" tvg-logo="https://livecdn.zbds.org/logo/谍战剧场.png",BesTV谍战剧场
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BesTV华语影院" group-title="精品•电信" tvg-name="BesTV华语影院" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV华语影院
+#EXTINF:-1 tvg-id="BesTV华语影院" group-title="精品•电信" tvg-name="BesTV华语影院" tvg-logo="https://livecdn.zbds.org/logo/bestv华语影院.png",BesTV华语影院
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BesTV看天下精选" group-title="精品•电信" tvg-name="BesTV看天下精选" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV看天下精选
+#EXTINF:-1 tvg-id="BesTV看天下精选" group-title="精品•电信" tvg-name="BesTV看天下精选" tvg-logo="https://livecdn.zbds.org/logo/bestv看天下精选.png",BesTV看天下精选
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="BesTV青春动漫" group-title="精品•电信" tvg-name="BesTV青春动漫" tvg-logo="https://livecdn.zbds.org/logo/bestv.png",BesTV青春动漫
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qcdm8m/8000000/mnf.m3u8
@@ -902,5 +902,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$ali
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$ali
 #EXTINF:-1 group-title="浙江频道" tvg-name="之江纪录" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/之江纪录.png" epg-url="http://epg.51zmt.top:8000/e.xml",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$ali
+
 
 
