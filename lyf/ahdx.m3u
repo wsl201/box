@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
 #EXTINF:-1 group-title="央视•电信" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" epg-url="https://fy.188766.xyz/e.xml",CCTV-1 综合
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视•电信" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" epg-url="https://fy.188766.xyz/e.xml",CCTV-2 财经
@@ -903,3 +902,4 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$ali
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$ali
 #EXTINF:-1 group-title="浙江频道" tvg-name="之江纪录" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/之江纪录.png" epg-url="http://epg.51zmt.top:8000/e.xml",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$ali
+
