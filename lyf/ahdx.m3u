@@ -39,17 +39,17 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视•电信" tvg-name="CCTV4K" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4K.png" epg-url="https://fy.188766.xyz/e.xml",CCTV-4K 超高清
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-阿语" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN-阿语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-阿语
+#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-阿语" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/CGTN-阿语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-阿语
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-记录" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN-记录.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-记录
+#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-记录" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/CGTN-记录.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-记录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="央视•电信" tvg-name="CGTN" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN.png" epg-url="https://fy.188766.xyz/e.xml",CGTN
 https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
-#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-西语" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN-西语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-西语
+#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-西语" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/CGTN-西语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-西语
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-法语" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN-法语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-法语
+#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-法语" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/CGTN-法语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-法语
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-俄语" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN-俄语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-俄语
+#EXTINF:-1 group-title="央视•电信" tvg-name="CGTN-俄语" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/CGTN-俄语.png" epg-url="https://fy.188766.xyz/e.xml",CGTN-俄语
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="卫视•电信" tvg-name="安徽卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/安徽卫视.png" epg-url="https://fy.188766.xyz/e.xml",安徽卫视
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
@@ -105,7 +105,7 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hainanwshd8m/800000
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sswshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="精品•电信" tvg-name="欢笑剧场" tvg-logo="https://livecdn.zbds.org/logo/欢笑剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",欢笑剧场
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="精品•电信" tvg-name="欢笑剧场·4K" tvg-logo="https://livecdn.zbds.org/logo/欢笑剧场·4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",欢笑剧场·4K
+#EXTINF:-1 group-title="精品•电信" tvg-name="欢笑剧场·4K" tvg-logo="https://livecdn.zbds.org/logo/欢笑剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",欢笑剧场·4K
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="精品•电信" tvg-name="劲爆体育" tvg-logo="https://livecdn.zbds.org/logo/劲爆体育.png" epg-url="http://epg.51zmt.top:8000/e.xml",劲爆体育
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jbtyhd8m/8000000/mnf.m3u8
@@ -123,11 +123,11 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mn
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="精品•电信" tvg-name="新视觉" tvg-logo="https://livecdn.zbds.org/logo/新视觉.png" epg-url="http://epg.51zmt.top:8000/e.xml",新视觉
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="精品•电信" tvg-name="CETV-1" tvg-logo="https://livecdn.zbds.org/logo/CETV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-1
+#EXTINF:-1 group-title="精品•电信" tvg-name="CETV-1" tvg-logo="https://livecdn.zbds.org/logo/CETV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV1
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="精品•电信" tvg-name="CETV-2" tvg-logo="https://livecdn.zbds.org/logo/CETV-2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-2
+#EXTINF:-1 group-title="精品•电信" tvg-name="CETV-2" tvg-logo="https://livecdn.zbds.org/logo/CETV2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV2
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cetv2hd4mc/4000000/mnf.m3u8
-#EXTINF:-1 group-title="精品•电信" tvg-name="CETV-4" tvg-logo="https://livecdn.zbds.org/logo/CETV-4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-4
+#EXTINF:-1 group-title="精品•电信" tvg-name="CETV-4" tvg-logo="https://livecdn.zbds.org/logo/CETV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV4
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="精品•电信" tvg-name="卡酷少儿" tvg-logo="https://livecdn.zbds.org/logo/卡酷少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",卡酷少儿
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
@@ -205,7 +205,7 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmjc8m/8000000/mnf.
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="精品•电信" tvg-name="BesTV戏曲精选" tvg-logo="https://livecdn.zbds.org/logo/戏曲精选.png" epg-url="http://epg.51zmt.top:8000/e.xml",BesTV戏曲精选
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="精品•电信" tvg-name="BesTV星光影院" tvg-logo="https://livecdn.zbds.org/logo/星光影院.png" epg-url="http://epg.51zmt.top:8000/e.xml",BesTV星光影院
+#EXTINF:-1 group-title="精品•电信" tvg-name="BesTV星光影院" tvg-logo="https://livecdn.zbds.org/logo/bestv.png" epg-url="http://epg.51zmt.top:8000/e.xml",BesTV星光影院
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xgyy8m/8000000/mnf.m3u8
 
 #EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/CCTV1.png" http-user-agent="okhttp/5.0.0-alpha.14,AptvPlayer/1.4.13" epg-url="https://fy.188766.xyz/e.xml",CCTV1
@@ -780,7 +780,7 @@ http://m.061899.xyz/mg/xzws$咪咕m
 http://m.061899.xyz/mg/btws$咪咕m
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/吉林卫视.png" http-user-agent="okhttp/5.0.0-alpha.14,AptvPlayer/1.4.13" epg-url="https://fy.188766.xyz/e.xml",吉林卫视
 http://m.061899.xyz/mg/jlws$咪咕m
-#EXTINF:-1 group-title="卫视•咪咕" tvg-name="内蒙古视" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/内蒙古视.png" http-user-agent="okhttp/5.0.0-alpha.14,AptvPlayer/1.4.13" epg-url="https://fy.188766.xyz/e.xml",内蒙古视
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/内蒙古卫视.png" http-user-agent="okhttp/5.0.0-alpha.14,AptvPlayer/1.4.13" epg-url="https://fy.188766.xyz/e.xml",内蒙古卫视
 http://m.061899.xyz/mg/nmgws$咪咕m
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/黑龙江卫视.png" http-user-agent="okhttp/5.0.0-alpha.14,AptvPlayer/1.4.13" epg-url="https://fy.188766.xyz/e.xml",黑龙江卫视
 http://m.061899.xyz/mg/hljws$咪咕m
@@ -902,6 +902,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$ali
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$ali
 #EXTINF:-1 group-title="浙江频道" tvg-name="之江纪录" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/之江纪录.png" epg-url="http://epg.51zmt.top:8000/e.xml",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$ali
+
 
 
 
