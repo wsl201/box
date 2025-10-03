@@ -124,11 +124,11 @@ http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mn
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="新视觉" group-title="精品•电信" tvg-name="新视觉" tvg-logo="https://livecdn.zbds.org/logo/新视觉.png",新视觉
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CETV-1" group-title="精品•电信" tvg-name="CETV-1" tvg-logo="https://livecdn.zbds.org/logo/CETV-1.png",CETV-1
+#EXTINF:-1 tvg-id="CETV-1" group-title="精品•电信" tvg-name="CETV-1" tvg-logo="https://livecdn.zbds.org/logo/CETV1.png",CETV-1
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CETV-2" group-title="精品•电信" tvg-name="CETV-2" tvg-logo="https://livecdn.zbds.org/logo/CETV-2.png",CETV-2
+#EXTINF:-1 tvg-id="CETV-2" group-title="精品•电信" tvg-name="CETV-2" tvg-logo="https://livecdn.zbds.org/logo/CETV2.png",CETV-2
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cetv2hd4mc/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CETV-4" group-title="精品•电信" tvg-name="CETV-4" tvg-logo="https://livecdn.zbds.org/logo/CETV-4.png",CETV-4
+#EXTINF:-1 tvg-id="CETV-4" group-title="精品•电信" tvg-name="CETV-4" tvg-logo="https://livecdn.zbds.org/logo/CETV4.png",CETV-4
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" group-title="精品•电信" tvg-name="卡酷少儿" tvg-logo="https://livecdn.zbds.org/logo/卡酷少儿.png",卡酷少儿
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
@@ -902,4 +902,5 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$ali
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$ali
 #EXTINF:-1 group-title="浙江频道" tvg-name="之江纪录" tvg-logo="https://gitee.com/wsl201/box/raw/main/png/之江纪录.png" epg-url="http://epg.51zmt.top:8000/e.xml",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$ali
+
 
