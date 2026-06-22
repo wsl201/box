@@ -60,7 +60,7 @@ http://192.168.10.10:8205/rtp/238.1.78.164:7184
 #EXTINF:-1 group-title="卫视•内网" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/浙江卫视4K.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 group-title="卫视•内网" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/浙江卫视4K.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",浙江卫视4K
-http://192.168.10.10:8205/rtp/238.1.79.28:4336$内网
+http://192.168.10.10:8205/rtp/238.1.79.28:4336
 #EXTINF:-1 group-title="卫视•内网" tvg-name="东南卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/东南卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",东南卫视
 http://192.168.10.10:8205/rtp/238.1.78.22:6104
 #EXTINF:-1 group-title="卫视•内网" tvg-name="广东卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/广东卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",广东卫视
@@ -94,11 +94,11 @@ http://192.168.10.10:8205/rtp/238.1.78.168:7216
 #EXTINF:-1 group-title="卫视•内网" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/湖南卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",湖南卫视
 http://192.168.10.10:8205/rtp/238.1.78.160:7152
 #EXTINF:-1 group-title="卫视•内网" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/湖南卫视4K.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",湖南卫视4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$mgtv
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="卫视•内网" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/湖南卫视4K.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",湖南卫视4K
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$mgtv2
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="卫视•内网" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/湖南卫视4K.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",湖南卫视4K
-http://192.168.10.10:8205/rtp/238.1.79.38:4416$内网
+http://192.168.10.10:8205/rtp/238.1.79.38:4416
 #EXTINF:-1 group-title="卫视•内网" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/吉林卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",吉林卫视
 http://192.168.10.10:8205/rtp/238.1.79.48:4496
 #EXTINF:-1 group-title="卫视•内网" tvg-name="江西卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/江西卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",江西卫视
