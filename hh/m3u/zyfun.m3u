@@ -452,41 +452,41 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/浙江卫视4K.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",浙江卫视
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV1.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-1 综合
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV1.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV1
 http://go.bkpcp.top/mg/cctv1
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV2" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV2.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-2 财经
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV2" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV2.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV2
 http://go.bkpcp.top/mg/cctv2
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV3" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV3.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-3 综艺
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV3" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV3.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV3
 http://go.bkpcp.top/mg/cctv3
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV4" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV4.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-4 中文国际
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV4" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV4.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV4
 http://go.bkpcp.top/mg/cctv4
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-5 体育
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV5
 http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5 .png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-5+ 体育赛事
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5 .png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV5+
 http://go.bkpcp.top/mg/cctv5p
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV6" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV6.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-6 电影
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV6" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV6.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV6
 http://go.bkpcp.top/mg/cctv6
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV7" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV7.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-7 国防军事
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV7" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV7.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV7
 http://go.bkpcp.top/mg/cctv7
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV8" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV8.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-8 电视剧
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV8" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV8.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV8
 http://go.bkpcp.top/mg/cctv8
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV9" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV9.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-9 纪录
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV9" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV9.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV9
 http://go.bkpcp.top/mg/cctv9
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV10" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV10.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-10 科教
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV10" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV10.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV10
 http://go.bkpcp.top/mg/cctv10
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV11" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV11.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-11 戏曲
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV11" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV11.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV11
 http://go.bkpcp.top/mg/cctv11
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV12" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV12.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-12 社会与法
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV12" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV12.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV12
 http://go.bkpcp.top/mg/cctv12
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV13" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV13.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-13 新闻
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV13" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV13.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV13
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV14" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV14.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-14 少儿
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV14" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV14.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV14
 http://go.bkpcp.top/mg/cctv14
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV15" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV15.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-15 音乐
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV15" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV15.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV15
 http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV16" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV16.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-16 奥林匹克
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV16" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV16.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV16
 http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV17" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV17.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-17 农业农村
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV17" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV17.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV17
 http://go.bkpcp.top/mg/cctv17
 
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="安徽卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/安徽卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",安徽卫视
@@ -556,41 +556,41 @@ http://go.bkpcp.top/mg/xzws
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="厦门卫视" tvg-logo="https://gitee.com/wsl201/box/raw/main/Sign/厦门卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",厦门卫视
 http://go.bkpcp.top/mg/xmws
 
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV1.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-1 综合
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV1.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV1
 http://j.s.bkpcp.top/jj/cctv1
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV2" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV2.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-2 财经
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV2" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV2.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV2
 http://j.s.bkpcp.top/jj/cctv2
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV3" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV3.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-3 综艺
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV3" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV3.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV3
 http://j.s.bkpcp.top/jj/cctv3
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV4" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV4.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-4 中文国际
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV4" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV4.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV4
 http://j.s.bkpcp.top/jj/cctv4
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-5 体育
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV5
 http://j.s.bkpcp.top/jj/cctv5
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5 .png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-5+ 体育赛事
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5 .png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV5+
 http://j.s.bkpcp.top/jj/cctv5p
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV6" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV6.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-6 电影
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV6" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV6.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV6
 http://j.s.bkpcp.top/jj/cctv6
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV7" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV7.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-7 国防军事
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV7" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV7.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV7
 http://j.s.bkpcp.top/jj/cctv7
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV8" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV8.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-8 电视剧
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV8" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV8.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV8
 http://j.s.bkpcp.top/jj/cctv8
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV9" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV9.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-9 纪录
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV9" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV9.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV9
 http://j.s.bkpcp.top/jj/cctv9
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV10" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV10.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-10 科教
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV10" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV10.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV10
 http://j.s.bkpcp.top/jj/cctv10
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV11" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV11.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-11 戏曲
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV11" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV11.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV11
 http://j.s.bkpcp.top/jj/cctv11
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV12" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV12.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-12 社会与法
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV12" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV12.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV12
 http://j.s.bkpcp.top/jj/cctv12
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV13" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV13.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-13 新闻
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV13" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV13.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV13
 http://j.s.bkpcp.top/jj/cctv13
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV14" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV14.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-14 少儿
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV14" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV14.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV14
 http://j.s.bkpcp.top/jj/cctv14
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV15" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV15.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-15 音乐
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV15" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV15.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV15
 http://j.s.bkpcp.top/jj/cctv15
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV16" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV16.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-16 奥林匹克
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV16" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV16.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV16
 http://j.s.bkpcp.top/jj/cctv16
-#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV17" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV17.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV-17 农业农村
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV17" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV17.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",CCTV17
 http://j.s.bkpcp.top/jj/cctv17
 
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="安徽卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/安徽卫视.png" http-user-agent="okHttp/Mod-1.4.0.0" epg-url="https://epg.zsdc.eu.org/t.xml",安徽卫视
