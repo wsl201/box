@@ -948,6 +948,80 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 #EXTINF:-1 group-title="卫视•咪咕" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/黑龙江卫视.png" http-user-agent="okHttp/Mod-1.5.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",黑龙江卫视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV1.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-1 综合
+http://107.150.60.122/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV2" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV2.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-2 财经
+http://107.150.60.122/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV3" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV3.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-3 综艺
+http://107.150.60.122/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV4" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV4.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-4 中文国际
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-5 体育
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV5 .png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-5+ 体育赛事
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV6" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV6.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-6 电影
+http://107.150.60.122/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV7" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV7.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-7 国防军事
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV8" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV8.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-8 电视剧
+http://107.150.60.122/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV9" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV9.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-9 纪录
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV10" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV10.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-10 科教
+http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV11" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV11.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-11 戏曲
+http://107.150.60.122/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV12" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV12.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-12 社会与法
+http://107.150.60.122/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV13" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV13.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-13 新闻
+http://107.150.60.122/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV14" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV14.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-14 少儿
+http://107.150.60.122/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV15" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV15.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-15 音乐
+http://107.150.60.122/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV16" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV16.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-16 奥林匹克
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV17" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV17.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-17 农业农村
+http://107.150.60.122/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV 4K" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV4K.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV 4K 超高清
+http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 group-title="央视•咪咕" tvg-name="CCTV 8K" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV8K.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV 8K 超高清
+http://107.150.60.122/live/cctv8k.m3u8
+
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="安徽卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/安徽卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",安徽卫视
+http://107.150.60.122/live/ahwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/辽宁卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",辽宁卫视
+http://107.150.60.122/live/lnwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="北京卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/北京卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",北京卫视
+http://107.150.60.122/live/bjwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="天津卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/天津卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",天津卫视
+http://107.150.60.122/live/tjwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/江苏卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",江苏卫视
+http://107.150.60.122/live/jswshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="东方卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/东方卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",东方卫视
+http://107.150.60.122/live/dfwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/浙江卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",浙江卫视
+http://107.150.60.122/live/zjwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/湖南卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",湖南卫视
+http://107.150.60.122/live/hnwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="重庆卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/重庆卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",重庆卫视
+http://107.150.60.122/live/cqwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="东南卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/东南卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",东南卫视
+http://107.150.60.122/live/dnwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="广东卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/广东卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",广东卫视
+http://107.150.60.122/live/gdwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="广西卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/广西卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",广西卫视
+http://107.150.60.122/live/gxwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="湖北卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/湖北卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",湖北卫视
+http://107.150.60.122/live/hbwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="山东卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/山东卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",山东卫视
+http://107.150.60.122/live/sdwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="陕西卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/陕西卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",陕西卫视
+http://107.150.60.122/live/snwshd.m3u8
+#EXTINF:-1 group-title="卫视•咪咕" tvg-name="深圳卫视" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/深圳卫视.png" http-user-agent="okHttp/Mod-1.5.0.0",深圳卫视
+http://107.150.60.122/live/szwshd.m3u8
+
 #EXTINF:-1 group-title="哈基米体育" tvg-name="精彩竞技" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/精彩竞技.png" http-user-agent="okHttp/Mod-1.5.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",精彩竞技
 http://feilong123.vip/409990236/iptv/gdy.php?id=18
 #EXTINF:-1 group-title="哈基米体育" tvg-name="精彩竞技" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/精彩竞技.png" http-user-agent="okHttp/Mod-1.5.0.0" epg-url="http://epg.51zmt.top:8000/e1.xml.gz",精彩竞技
