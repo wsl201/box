@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml.gz"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
 #EXTINF:-1 group-title="央视•内网" tvg-name="CCTV1" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV1.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-1 综合
 http://192.168.10.10:8205/app/rtp2httpd/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="央视•内网" tvg-name="CCTV2" tvg-logo="https://gitee.com/wsl201/oktv/raw/main/Sign/CCTV2.png" http-user-agent="okHttp/Mod-1.5.0.0",CCTV-2 财经
