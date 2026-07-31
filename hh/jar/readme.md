@@ -1,4 +1,4 @@
-"spider": "https://gitee.com/wsl201/box/raw/main/hh/jar/wxe260614.jar;md5;a4410b3a6d9eb221f4694bd46873b829",
+"spider": "https://gitee.com/wsl201/box/raw/main/hh/jar/wxe260729.png;md5;48534c2903b56915217484979218701c",
 
 "spider": "https://gitee.com/wsl201/box/raw/main/hh/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
 
